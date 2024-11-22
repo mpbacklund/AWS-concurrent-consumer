@@ -1,6 +1,7 @@
 import boto3
 import time
 import json
+from logger_config import logger
 
 class consumer():
     def __init__(self, source, storageType, destination):
@@ -9,44 +10,64 @@ class consumer():
         self.destination = destination
         self.sourceClient = boto3.client('s3')
         self.destClient = boto3.client(storageType, region_name="us-east-1")
-
+        logger.info(f"Initialized consumer with source={source}, storageType={storageType}, destination={destination}")
+            
     def listen(self):
+        logger.info("Starting to listen for requests...")
         timeEnd = time.time() + 30
 
-        # listen for 30 seconds
         while time.time() < timeEnd:
-            # check if there are any requests to process
-            response = self.sourceClient.list_objects_v2(Bucket=self.source)
+            try:
+                response = self.sourceClient.list_objects_v2(Bucket=self.source)
+                if 'Contents' in response:
+                    smallestKey = self.getSmallestKey(response)
+                    logger.info(f"Found smallest key: {smallestKey}")
+                    
+                    request = self.getRequest(smallestKey)
+                    request_data = self.getRequestData(request)
+                    logger.debug(f"Request data: {request_data}")
 
-            if 'Contents' in response:
-                # 1. find the smallest key
-                smallestKey = sorted(response['Contents'], key=lambda x: x["Key"])[0]['Key']
+                    requestType = self.getRequestType(request_data)
+                    logger.info(f"Processing request of type: {requestType}")
 
-                # 2. using the smallest key obtained in the last step, get the request
-                request = self.sourceClient.get_object(Bucket=self.source, Key=smallestKey)
+                    if requestType == "create":
+                        self.create(request_data)
 
-                # 3. decode request into a json object that we can read and work with
-                request_data = json.loads(request['Body'].read().decode('utf-8'))
-                
-                # 4. process the request
-                self.processRequest(request_data)
+                    self.sourceClient.delete_object(Bucket=self.source, Key=smallestKey)
+                    logger.info(f"Deleted processed request with key: {smallestKey}")
+                else:
+                    time.sleep(0.1)
+            except Exception as e:
+                logger.error(f"Error during processing: {e}")
 
-                # 5. delete the request from the requests bucket after it has been processed
-                self.sourceClient.delete_object(Bucket=self.source, Key=smallestKey)
-            else:
-                # wait for 1/10 of a second before checking again if there are no requests to process
-                time.sleep(0.1)
+    # get the smallest key from the list of objects
+    def getSmallestKey(self, response):
+        smallestKey = sorted(response['Contents'], key=lambda x: x["Key"])[0]['Key']
+        return smallestKey
+    
+    # given a key, get a request from the source bucket
+    def getRequest(self, key):
+        request = self.sourceClient.get_object(Bucket=self.source, Key=key)
+        return request
+    
+    # decodes the request into a json object
+    def getRequestData(self, request):
+        request_data = json.loads(request['Body'].read().decode('utf-8'))
+        return request_data
 
     # routes the request to a processor based on the type of request it is
-    def processRequest(self, request):
+    def getRequestType(self, request):
         requestType = request['type']
         # see if we need to send this to 
         if requestType == "create":
-            self.create(request)
+            # self.create(request)
+            return "create"
         if requestType == "delete":
-            pass
+            return "delete"
         if requestType == "update":
-            pass
+            return "update"
+        
+        return "none"
 
     def create(self, widget):
         if self.storageType == 's3':
