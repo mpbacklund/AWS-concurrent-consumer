@@ -1,0 +1,1162 @@
+2024-11-22 12:05:06,660 - app_logger - INFO - Starting the application...
+2024-11-22 12:05:06,666 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 's3', 'destination': 'usu-cs5250-matt-web'}
+2024-11-22 12:05:06,737 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:05:07,297 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=s3, destination=usu-cs5250-matt-web
+2024-11-22 12:05:07,297 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:07:55,234 - app_logger - INFO - Starting the application...
+2024-11-22 12:07:55,238 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 's3', 'destination': 'usu-cs5250-matt-web'}
+2024-11-22 12:07:55,292 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:07:55,456 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=s3, destination=usu-cs5250-matt-web
+2024-11-22 12:07:55,456 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:07:55,994 - app_logger - INFO - Found smallest key: 1732302468975
+2024-11-22 12:07:56,082 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:57,120 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:57,208 - app_logger - INFO - Deleted processed request with key: 1732302468975
+2024-11-22 12:07:57,332 - app_logger - INFO - Found smallest key: 1732302469819
+2024-11-22 12:07:57,424 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:57,591 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:57,675 - app_logger - INFO - Deleted processed request with key: 1732302469819
+2024-11-22 12:07:57,757 - app_logger - INFO - Found smallest key: 1732302470133
+2024-11-22 12:07:57,842 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:58,010 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:58,096 - app_logger - INFO - Deleted processed request with key: 1732302470133
+2024-11-22 12:07:58,180 - app_logger - INFO - Found smallest key: 1732302470398
+2024-11-22 12:07:58,265 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:58,435 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:58,518 - app_logger - INFO - Deleted processed request with key: 1732302470398
+2024-11-22 12:07:58,602 - app_logger - INFO - Found smallest key: 1732302470662
+2024-11-22 12:07:58,685 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:58,878 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:58,974 - app_logger - INFO - Deleted processed request with key: 1732302470662
+2024-11-22 12:07:59,059 - app_logger - INFO - Found smallest key: 1732302470925
+2024-11-22 12:07:59,146 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:59,309 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:59,394 - app_logger - INFO - Deleted processed request with key: 1732302470925
+2024-11-22 12:07:59,479 - app_logger - INFO - Found smallest key: 1732302471197
+2024-11-22 12:07:59,564 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:07:59,727 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:07:59,810 - app_logger - INFO - Deleted processed request with key: 1732302471197
+2024-11-22 12:07:59,895 - app_logger - INFO - Found smallest key: 1732302471503
+2024-11-22 12:07:59,981 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:00,139 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:00,225 - app_logger - INFO - Deleted processed request with key: 1732302471503
+2024-11-22 12:08:00,311 - app_logger - INFO - Found smallest key: 1732302471782
+2024-11-22 12:08:00,396 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:00,584 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:00,668 - app_logger - INFO - Deleted processed request with key: 1732302471782
+2024-11-22 12:08:00,754 - app_logger - INFO - Found smallest key: 1732302472047
+2024-11-22 12:08:00,839 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:00,995 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:01,079 - app_logger - INFO - Deleted processed request with key: 1732302472047
+2024-11-22 12:08:01,164 - app_logger - INFO - Found smallest key: 1732302472313
+2024-11-22 12:08:01,247 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:01,412 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:01,494 - app_logger - INFO - Deleted processed request with key: 1732302472313
+2024-11-22 12:08:01,577 - app_logger - INFO - Found smallest key: 1732302472579
+2024-11-22 12:08:01,665 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:01,822 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:01,903 - app_logger - INFO - Deleted processed request with key: 1732302472579
+2024-11-22 12:08:02,061 - app_logger - INFO - Found smallest key: 1732302472859
+2024-11-22 12:08:02,145 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:02,337 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:02,423 - app_logger - INFO - Deleted processed request with key: 1732302472859
+2024-11-22 12:08:02,513 - app_logger - INFO - Found smallest key: 1732302473125
+2024-11-22 12:08:02,597 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:02,755 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:02,838 - app_logger - INFO - Deleted processed request with key: 1732302473125
+2024-11-22 12:08:02,936 - app_logger - INFO - Found smallest key: 1732302473388
+2024-11-22 12:08:03,022 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:03,180 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:03,261 - app_logger - INFO - Deleted processed request with key: 1732302473388
+2024-11-22 12:08:03,346 - app_logger - INFO - Found smallest key: 1732302473654
+2024-11-22 12:08:03,431 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:03,587 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:03,667 - app_logger - INFO - Deleted processed request with key: 1732302473654
+2024-11-22 12:08:03,752 - app_logger - INFO - Found smallest key: 1732302473917
+2024-11-22 12:08:03,833 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:03,991 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:04,077 - app_logger - INFO - Deleted processed request with key: 1732302473917
+2024-11-22 12:08:04,160 - app_logger - INFO - Found smallest key: 1732302474183
+2024-11-22 12:08:04,243 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:04,404 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:04,485 - app_logger - INFO - Deleted processed request with key: 1732302474183
+2024-11-22 12:08:04,568 - app_logger - INFO - Found smallest key: 1732302474447
+2024-11-22 12:08:04,657 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:04,818 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:04,899 - app_logger - INFO - Deleted processed request with key: 1732302474447
+2024-11-22 12:08:04,984 - app_logger - INFO - Found smallest key: 1732302474715
+2024-11-22 12:08:05,067 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:05,225 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:05,308 - app_logger - INFO - Deleted processed request with key: 1732302474715
+2024-11-22 12:08:05,395 - app_logger - INFO - Found smallest key: 1732302474982
+2024-11-22 12:08:05,482 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:05,651 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:05,737 - app_logger - INFO - Deleted processed request with key: 1732302474982
+2024-11-22 12:08:05,822 - app_logger - INFO - Found smallest key: 1732302475247
+2024-11-22 12:08:05,908 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:06,124 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:06,211 - app_logger - INFO - Deleted processed request with key: 1732302475247
+2024-11-22 12:08:06,295 - app_logger - INFO - Found smallest key: 1732302475558
+2024-11-22 12:08:06,380 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:06,537 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:06,619 - app_logger - INFO - Deleted processed request with key: 1732302475558
+2024-11-22 12:08:06,705 - app_logger - INFO - Found smallest key: 1732302475826
+2024-11-22 12:08:06,792 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:06,949 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:07,031 - app_logger - INFO - Deleted processed request with key: 1732302475826
+2024-11-22 12:08:07,115 - app_logger - INFO - Found smallest key: 1732302476104
+2024-11-22 12:08:07,223 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:07,396 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:07,478 - app_logger - INFO - Deleted processed request with key: 1732302476104
+2024-11-22 12:08:07,563 - app_logger - INFO - Found smallest key: 1732302476366
+2024-11-22 12:08:07,650 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:07,807 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:07,893 - app_logger - INFO - Deleted processed request with key: 1732302476366
+2024-11-22 12:08:07,980 - app_logger - INFO - Found smallest key: 1732302476692
+2024-11-22 12:08:08,067 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:08,223 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:08,304 - app_logger - INFO - Deleted processed request with key: 1732302476692
+2024-11-22 12:08:08,391 - app_logger - INFO - Found smallest key: 1732302476957
+2024-11-22 12:08:08,478 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:08,636 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:08,720 - app_logger - INFO - Deleted processed request with key: 1732302476957
+2024-11-22 12:08:08,805 - app_logger - INFO - Found smallest key: 1732302477226
+2024-11-22 12:08:08,888 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:09,044 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:09,127 - app_logger - INFO - Deleted processed request with key: 1732302477226
+2024-11-22 12:08:09,212 - app_logger - INFO - Found smallest key: 1732302477505
+2024-11-22 12:08:09,297 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:09,455 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:09,538 - app_logger - INFO - Deleted processed request with key: 1732302477505
+2024-11-22 12:08:09,624 - app_logger - INFO - Found smallest key: 1732302477769
+2024-11-22 12:08:09,713 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:09,870 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:09,966 - app_logger - INFO - Deleted processed request with key: 1732302477769
+2024-11-22 12:08:10,053 - app_logger - INFO - Found smallest key: 1732302478031
+2024-11-22 12:08:10,139 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:10,295 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:10,382 - app_logger - INFO - Deleted processed request with key: 1732302478031
+2024-11-22 12:08:10,468 - app_logger - INFO - Found smallest key: 1732302478292
+2024-11-22 12:08:10,556 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:10,714 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:10,799 - app_logger - INFO - Deleted processed request with key: 1732302478292
+2024-11-22 12:08:10,892 - app_logger - INFO - Found smallest key: 1732302478558
+2024-11-22 12:08:11,412 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:11,573 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:11,657 - app_logger - INFO - Deleted processed request with key: 1732302478558
+2024-11-22 12:08:11,745 - app_logger - INFO - Found smallest key: 1732302478824
+2024-11-22 12:08:11,835 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:11,992 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:12,078 - app_logger - INFO - Deleted processed request with key: 1732302478824
+2024-11-22 12:08:12,166 - app_logger - INFO - Found smallest key: 1732302479104
+2024-11-22 12:08:12,294 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:12,448 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:12,529 - app_logger - INFO - Deleted processed request with key: 1732302479104
+2024-11-22 12:08:12,620 - app_logger - INFO - Found smallest key: 1732302479368
+2024-11-22 12:08:12,713 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:12,905 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:12,989 - app_logger - INFO - Deleted processed request with key: 1732302479368
+2024-11-22 12:08:13,077 - app_logger - INFO - Found smallest key: 1732302479633
+2024-11-22 12:08:13,164 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:13,325 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:13,418 - app_logger - INFO - Deleted processed request with key: 1732302479633
+2024-11-22 12:08:13,506 - app_logger - INFO - Found smallest key: 1732302479898
+2024-11-22 12:08:13,593 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:13,753 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:13,841 - app_logger - INFO - Deleted processed request with key: 1732302479898
+2024-11-22 12:08:13,927 - app_logger - INFO - Found smallest key: 1732302480161
+2024-11-22 12:08:14,016 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:14,170 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:14,254 - app_logger - INFO - Deleted processed request with key: 1732302480161
+2024-11-22 12:08:14,348 - app_logger - INFO - Found smallest key: 1732302480439
+2024-11-22 12:08:14,431 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:14,589 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:14,673 - app_logger - INFO - Deleted processed request with key: 1732302480439
+2024-11-22 12:08:14,796 - app_logger - INFO - Found smallest key: 1732302480704
+2024-11-22 12:08:14,883 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:15,046 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:15,126 - app_logger - INFO - Deleted processed request with key: 1732302480704
+2024-11-22 12:08:15,217 - app_logger - INFO - Found smallest key: 1732302481087
+2024-11-22 12:08:15,302 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:15,460 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:15,543 - app_logger - INFO - Deleted processed request with key: 1732302481087
+2024-11-22 12:08:15,645 - app_logger - INFO - Found smallest key: 1732302481350
+2024-11-22 12:08:15,731 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:08:15,884 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/3ba1bc57-bd26-48a3-b905-311f980acffb. Response: {'ResponseMetadata': {'RequestId': 'HJWTKM57YW0M180N', 'HostId': 'mfhlNe0VNKcFh/MWYUh4M8c2o0dht/ireDfgWkn5rSoTkDHx7yDE55F7sQg7JazAC+Tut7awiyw=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'mfhlNe0VNKcFh/MWYUh4M8c2o0dht/ireDfgWkn5rSoTkDHx7yDE55F7sQg7JazAC+Tut7awiyw=', 'x-amz-request-id': 'HJWTKM57YW0M180N', 'date': 'Fri, 22 Nov 2024 19:08:15 GMT', 'x-amz-version-id': 'eoJ1mIrzUC2ioVoqyLQ_PtwrQTwR7yam', 'x-amz-server-side-encryption': 'AES256', 'etag': '"fd3f372983cafc29eedffebcdf3691c9"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"fd3f372983cafc29eedffebcdf3691c9"', 'ServerSideEncryption': 'AES256', 'VersionId': 'eoJ1mIrzUC2ioVoqyLQ_PtwrQTwR7yam'}
+2024-11-22 12:08:15,966 - app_logger - INFO - Deleted processed request with key: 1732302481350
+2024-11-22 12:08:16,051 - app_logger - INFO - Found smallest key: 1732302481611
+2024-11-22 12:08:16,133 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:16,295 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:16,378 - app_logger - INFO - Deleted processed request with key: 1732302481611
+2024-11-22 12:08:16,465 - app_logger - INFO - Found smallest key: 1732302481879
+2024-11-22 12:08:16,550 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:16,724 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:16,809 - app_logger - INFO - Deleted processed request with key: 1732302481879
+2024-11-22 12:08:16,894 - app_logger - INFO - Found smallest key: 1732302482265
+2024-11-22 12:08:16,979 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:17,298 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:17,382 - app_logger - INFO - Deleted processed request with key: 1732302482265
+2024-11-22 12:08:17,471 - app_logger - INFO - Found smallest key: 1732302482528
+2024-11-22 12:08:17,636 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:08:17,796 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/a1dc67b4-4850-40be-bf02-f9c850f20105. Response: {'ResponseMetadata': {'RequestId': 'W1MWRN42FR88E7W5', 'HostId': 'JOAKqm0yI3GJ/V9A9jO8XusmvoC0f585Ub4jiktYp1A8sjEGFxDC7kkIWHmsB+8ggrFMZ4mKR88=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'JOAKqm0yI3GJ/V9A9jO8XusmvoC0f585Ub4jiktYp1A8sjEGFxDC7kkIWHmsB+8ggrFMZ4mKR88=', 'x-amz-request-id': 'W1MWRN42FR88E7W5', 'date': 'Fri, 22 Nov 2024 19:08:17 GMT', 'x-amz-version-id': 'ovvn4n.rVtNF8afSPW_KRW2sso5Juw6B', 'x-amz-server-side-encryption': 'AES256', 'etag': '"58ae892249f5d79ff94cb2c69193b0cd"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"58ae892249f5d79ff94cb2c69193b0cd"', 'ServerSideEncryption': 'AES256', 'VersionId': 'ovvn4n.rVtNF8afSPW_KRW2sso5Juw6B'}
+2024-11-22 12:08:17,876 - app_logger - INFO - Deleted processed request with key: 1732302482528
+2024-11-22 12:08:17,965 - app_logger - INFO - Found smallest key: 1732302482794
+2024-11-22 12:08:18,061 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:18,224 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:18,309 - app_logger - INFO - Deleted processed request with key: 1732302482794
+2024-11-22 12:08:18,394 - app_logger - INFO - Found smallest key: 1732302483056
+2024-11-22 12:08:18,480 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:18,661 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:18,746 - app_logger - INFO - Deleted processed request with key: 1732302483056
+2024-11-22 12:08:18,833 - app_logger - INFO - Found smallest key: 1732302483397
+2024-11-22 12:08:18,919 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:19,074 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:19,157 - app_logger - INFO - Deleted processed request with key: 1732302483397
+2024-11-22 12:08:19,247 - app_logger - INFO - Found smallest key: 1732302483660
+2024-11-22 12:08:19,330 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:19,487 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:19,569 - app_logger - INFO - Deleted processed request with key: 1732302483660
+2024-11-22 12:08:19,656 - app_logger - INFO - Found smallest key: 1732302483925
+2024-11-22 12:08:19,742 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:19,898 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:19,985 - app_logger - INFO - Deleted processed request with key: 1732302483925
+2024-11-22 12:08:20,074 - app_logger - INFO - Found smallest key: 1732302484186
+2024-11-22 12:08:20,164 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:20,323 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:20,406 - app_logger - INFO - Deleted processed request with key: 1732302484186
+2024-11-22 12:08:20,494 - app_logger - INFO - Found smallest key: 1732302484451
+2024-11-22 12:08:20,580 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:20,805 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:20,888 - app_logger - INFO - Deleted processed request with key: 1732302484451
+2024-11-22 12:08:20,976 - app_logger - INFO - Found smallest key: 1732302484743
+2024-11-22 12:08:21,061 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:08:21,216 - app_logger - INFO - Updated widget in S3 with key widgets/sue-smith/97d54eb6-9644-462b-95a2-4e29aeae7350. Response: {'ResponseMetadata': {'RequestId': '2PJVPP1KH6GF6GX7', 'HostId': 'wqZPveedRKqyBhBUEqlT3mx8I2sA+W/JlMiF/Rn0vM5Qj4GxrjcB/WtMKrQZLrdJ57c4nSEj82M=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'wqZPveedRKqyBhBUEqlT3mx8I2sA+W/JlMiF/Rn0vM5Qj4GxrjcB/WtMKrQZLrdJ57c4nSEj82M=', 'x-amz-request-id': '2PJVPP1KH6GF6GX7', 'date': 'Fri, 22 Nov 2024 19:08:20 GMT', 'x-amz-version-id': 'w.BKoaWkxDRyGXM.J7Ja53IylpVTuNt.', 'x-amz-server-side-encryption': 'AES256', 'etag': '"78165cbf1d2684917f107031f33cee42"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"78165cbf1d2684917f107031f33cee42"', 'ServerSideEncryption': 'AES256', 'VersionId': 'w.BKoaWkxDRyGXM.J7Ja53IylpVTuNt.'}
+2024-11-22 12:08:21,300 - app_logger - INFO - Deleted processed request with key: 1732302484743
+2024-11-22 12:08:21,392 - app_logger - INFO - Found smallest key: 1732302485008
+2024-11-22 12:08:21,488 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:21,645 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:21,729 - app_logger - INFO - Deleted processed request with key: 1732302485008
+2024-11-22 12:08:21,814 - app_logger - INFO - Found smallest key: 1732302485270
+2024-11-22 12:08:21,895 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:08:21,982 - app_logger - INFO - Deleted widget with key widgets/mary-matthews/21fb1998-d1b9-49f1-a91a-626b02d7f7da from S3. Response: {'ResponseMetadata': {'RequestId': 'YAXD7H9D5M67C5SS', 'HostId': 'hg0dNcSL9z5Lz0O0KocGIp3rh58l+oKy/PEYvvqd+ESgE+fyQI8vWDvVonPoblWtz6l47zq/8WE=', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'hg0dNcSL9z5Lz0O0KocGIp3rh58l+oKy/PEYvvqd+ESgE+fyQI8vWDvVonPoblWtz6l47zq/8WE=', 'x-amz-request-id': 'YAXD7H9D5M67C5SS', 'date': 'Fri, 22 Nov 2024 19:08:21 GMT', 'x-amz-version-id': 'c5AHN6LPuks12GwbiGew17eH1rQU9KVH', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'c5AHN6LPuks12GwbiGew17eH1rQU9KVH'}
+2024-11-22 12:08:22,068 - app_logger - INFO - Deleted processed request with key: 1732302485270
+2024-11-22 12:08:22,152 - app_logger - INFO - Found smallest key: 1732302485533
+2024-11-22 12:08:22,237 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:22,395 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:22,479 - app_logger - INFO - Deleted processed request with key: 1732302485533
+2024-11-22 12:08:22,565 - app_logger - INFO - Found smallest key: 1732302485798
+2024-11-22 12:08:22,650 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:22,808 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:22,894 - app_logger - INFO - Deleted processed request with key: 1732302485798
+2024-11-22 12:08:22,994 - app_logger - INFO - Found smallest key: 1732302486078
+2024-11-22 12:08:23,081 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:23,236 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:23,318 - app_logger - INFO - Deleted processed request with key: 1732302486078
+2024-11-22 12:08:23,422 - app_logger - INFO - Found smallest key: 1732302486370
+2024-11-22 12:08:23,510 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:23,669 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:23,753 - app_logger - INFO - Deleted processed request with key: 1732302486370
+2024-11-22 12:08:23,839 - app_logger - INFO - Found smallest key: 1732302486651
+2024-11-22 12:08:23,932 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:08:24,090 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/c8b25628-7437-44c4-9819-8b730a4520af. Response: {'ResponseMetadata': {'RequestId': '9JVD2DJ3FC593T2A', 'HostId': 'zDboR5jQe5fNKvs14zal0A+h/eBFh7KylW+/6FS9lwDtW1ZAQ0vSiR22o2PEzjR9/mma2cxhGcA=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'zDboR5jQe5fNKvs14zal0A+h/eBFh7KylW+/6FS9lwDtW1ZAQ0vSiR22o2PEzjR9/mma2cxhGcA=', 'x-amz-request-id': '9JVD2DJ3FC593T2A', 'date': 'Fri, 22 Nov 2024 19:08:23 GMT', 'x-amz-version-id': 'RYPeUD91WgEzeYBCGz.KgoTgwfU.A8MQ', 'x-amz-server-side-encryption': 'AES256', 'etag': '"cfca6f6df297a9f74f8dc3f6d1b7c933"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"cfca6f6df297a9f74f8dc3f6d1b7c933"', 'ServerSideEncryption': 'AES256', 'VersionId': 'RYPeUD91WgEzeYBCGz.KgoTgwfU.A8MQ'}
+2024-11-22 12:08:24,177 - app_logger - INFO - Deleted processed request with key: 1732302486651
+2024-11-22 12:08:24,262 - app_logger - INFO - Found smallest key: 1732302486927
+2024-11-22 12:08:24,349 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:08:24,515 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/4a6195ce-96b6-451c-b2d4-3f68e58180c7. Response: {'ResponseMetadata': {'RequestId': '6BSYTWH77KPAZ4BJ', 'HostId': 'LZon/jYZ7CmlX+WNcT1DG44FWl+7KEni9CZY7MoyVHJ6WEt4lAieraBNiiaxbS1UsE4nzVD1scI=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'LZon/jYZ7CmlX+WNcT1DG44FWl+7KEni9CZY7MoyVHJ6WEt4lAieraBNiiaxbS1UsE4nzVD1scI=', 'x-amz-request-id': '6BSYTWH77KPAZ4BJ', 'date': 'Fri, 22 Nov 2024 19:08:24 GMT', 'x-amz-version-id': 'V4C9wI3AJWIzBg3NfKVlLhtArwEUiZ14', 'x-amz-server-side-encryption': 'AES256', 'etag': '"01e4ee89c11897df65658003bc341291"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"01e4ee89c11897df65658003bc341291"', 'ServerSideEncryption': 'AES256', 'VersionId': 'V4C9wI3AJWIzBg3NfKVlLhtArwEUiZ14'}
+2024-11-22 12:08:24,600 - app_logger - INFO - Deleted processed request with key: 1732302486927
+2024-11-22 12:08:24,691 - app_logger - INFO - Found smallest key: 1732302487193
+2024-11-22 12:08:24,778 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:24,938 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:25,023 - app_logger - INFO - Deleted processed request with key: 1732302487193
+2024-11-22 12:08:25,110 - app_logger - INFO - Found smallest key: 1732302487456
+2024-11-22 12:08:25,197 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:08:25,358 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:08:25,447 - app_logger - INFO - Deleted processed request with key: 1732302487456
+2024-11-22 12:08:25,532 - app_logger - INFO - Found smallest key: 1732302487721
+2024-11-22 12:08:25,631 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:08:25,715 - app_logger - INFO - Deleted widget with key widgets/henry-hops/30ce4371-3cc2-4385-a6fd-00447b7a0773 from S3. Response: {'ResponseMetadata': {'RequestId': 'JPZ8BY49PGV3ES3D', 'HostId': 'Jsz1psEBf8RKGjSeYovJ2Zt37zn4QL8KLG7ZtUxqoL5o/zTt00sYimVURkvv+k5giGVo578a3ng=', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'Jsz1psEBf8RKGjSeYovJ2Zt37zn4QL8KLG7ZtUxqoL5o/zTt00sYimVURkvv+k5giGVo578a3ng=', 'x-amz-request-id': 'JPZ8BY49PGV3ES3D', 'date': 'Fri, 22 Nov 2024 19:08:25 GMT', 'x-amz-version-id': 'tHvW4270tSCK7dhLciJ4QqtKYM_yrWoN', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'tHvW4270tSCK7dhLciJ4QqtKYM_yrWoN'}
+2024-11-22 12:08:26,217 - app_logger - INFO - Deleted processed request with key: 1732302487721
+2024-11-22 12:10:04,713 - app_logger - INFO - Starting the application...
+2024-11-22 12:10:04,717 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 's3', 'destination': 'usu-cs5250-matt-web'}
+2024-11-22 12:10:04,766 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:10:04,936 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=s3, destination=usu-cs5250-matt-web
+2024-11-22 12:10:04,937 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:10:05,570 - app_logger - INFO - Found smallest key: 1732302488048
+2024-11-22 12:10:05,658 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:06,243 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:06,383 - app_logger - INFO - Deleted processed request with key: 1732302488048
+2024-11-22 12:10:06,543 - app_logger - INFO - Found smallest key: 1732302488311
+2024-11-22 12:10:06,650 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:06,803 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:06,881 - app_logger - INFO - Deleted processed request with key: 1732302488311
+2024-11-22 12:10:06,972 - app_logger - INFO - Found smallest key: 1732302488574
+2024-11-22 12:10:07,056 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:07,208 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/640fdfee-5be9-411c-afe6-caed0d381227. Response: {'ResponseMetadata': {'RequestId': '2N5CE475GCF9YRZV', 'HostId': 'oKPj9o6Kne7Z9Jm+exlJlSfVUDTksenRakLDRrqWA/DtB+TX8ScFoWDmOzYyHVzJj0FBXbsDhJU9kh72I5OyxSpa3yiZy3Gv', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'oKPj9o6Kne7Z9Jm+exlJlSfVUDTksenRakLDRrqWA/DtB+TX8ScFoWDmOzYyHVzJj0FBXbsDhJU9kh72I5OyxSpa3yiZy3Gv', 'x-amz-request-id': '2N5CE475GCF9YRZV', 'date': 'Fri, 22 Nov 2024 19:10:06 GMT', 'x-amz-version-id': 'lASk0T.V0UfN8ge2iNkMZYMUM_SmXHYV', 'x-amz-server-side-encryption': 'AES256', 'etag': '"2d1bcddd5583a82491b910e2aec2166c"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"2d1bcddd5583a82491b910e2aec2166c"', 'ServerSideEncryption': 'AES256', 'VersionId': 'lASk0T.V0UfN8ge2iNkMZYMUM_SmXHYV'}
+2024-11-22 12:10:07,290 - app_logger - INFO - Deleted processed request with key: 1732302488574
+2024-11-22 12:10:07,383 - app_logger - INFO - Found smallest key: 1732302488838
+2024-11-22 12:10:07,469 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:07,622 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/052e6fc8-f17c-430a-a1bc-91f64b2fa916. Response: {'ResponseMetadata': {'RequestId': 'FYQBVX1AGTKNM7X7', 'HostId': 'TZTRcaLi/HuNVxEUcrDqZsnBqQGDkmBUDVEebKFWsOElkLw18KzOEuGq52alxXOdknXiRWfwoqJ/64fhekYvWz3kHvgZ4eJc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'TZTRcaLi/HuNVxEUcrDqZsnBqQGDkmBUDVEebKFWsOElkLw18KzOEuGq52alxXOdknXiRWfwoqJ/64fhekYvWz3kHvgZ4eJc', 'x-amz-request-id': 'FYQBVX1AGTKNM7X7', 'date': 'Fri, 22 Nov 2024 19:10:07 GMT', 'x-amz-version-id': 'kvhB7nHrH6cTM1RIn30QI5jud7iGSSJb', 'x-amz-server-side-encryption': 'AES256', 'etag': '"3937f574c9025be309b16ad39cf7cc8a"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"3937f574c9025be309b16ad39cf7cc8a"', 'ServerSideEncryption': 'AES256', 'VersionId': 'kvhB7nHrH6cTM1RIn30QI5jud7iGSSJb'}
+2024-11-22 12:10:07,701 - app_logger - INFO - Deleted processed request with key: 1732302488838
+2024-11-22 12:10:07,796 - app_logger - INFO - Found smallest key: 1732302489105
+2024-11-22 12:10:07,882 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:08,036 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:08,118 - app_logger - INFO - Deleted processed request with key: 1732302489105
+2024-11-22 12:10:08,212 - app_logger - INFO - Found smallest key: 1732302489371
+2024-11-22 12:10:08,293 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:08,447 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:08,524 - app_logger - INFO - Deleted processed request with key: 1732302489371
+2024-11-22 12:10:08,618 - app_logger - INFO - Found smallest key: 1732302489697
+2024-11-22 12:10:08,733 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:08,885 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:08,965 - app_logger - INFO - Deleted processed request with key: 1732302489697
+2024-11-22 12:10:09,072 - app_logger - INFO - Found smallest key: 1732302489962
+2024-11-22 12:10:09,184 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:09,341 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:09,421 - app_logger - INFO - Deleted processed request with key: 1732302489962
+2024-11-22 12:10:09,512 - app_logger - INFO - Found smallest key: 1732302490224
+2024-11-22 12:10:09,594 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:09,835 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:09,919 - app_logger - INFO - Deleted processed request with key: 1732302490224
+2024-11-22 12:10:10,025 - app_logger - INFO - Found smallest key: 1732302490488
+2024-11-22 12:10:10,152 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:10,383 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/052e6fc8-f17c-430a-a1bc-91f64b2fa916. Response: {'ResponseMetadata': {'RequestId': 'QRA70CCBS8PSHP35', 'HostId': 'MBXyRIDoY7b57S5QAw9uWOByr2LbfWBThXp+2RKDpNQ3Ec3OAftKxbB6FLnsxkGeHqo5IjS1UGPNrRiROOV7NjqMD6KSvfhy', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'MBXyRIDoY7b57S5QAw9uWOByr2LbfWBThXp+2RKDpNQ3Ec3OAftKxbB6FLnsxkGeHqo5IjS1UGPNrRiROOV7NjqMD6KSvfhy', 'x-amz-request-id': 'QRA70CCBS8PSHP35', 'date': 'Fri, 22 Nov 2024 19:10:09 GMT', 'x-amz-version-id': 'MQE40L3TZDrbcHatu21xLHd6mVl0y7Uf', 'x-amz-server-side-encryption': 'AES256', 'etag': '"4694568260c1d329dba53d22657e7bd2"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"4694568260c1d329dba53d22657e7bd2"', 'ServerSideEncryption': 'AES256', 'VersionId': 'MQE40L3TZDrbcHatu21xLHd6mVl0y7Uf'}
+2024-11-22 12:10:10,462 - app_logger - INFO - Deleted processed request with key: 1732302490488
+2024-11-22 12:10:10,625 - app_logger - INFO - Found smallest key: 1732302490751
+2024-11-22 12:10:10,787 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:10,938 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/399aa237-b150-4dc8-847a-ddbd5d17bdf4. Response: {'ResponseMetadata': {'RequestId': 'VJKWZWXDHAQTPZ49', 'HostId': '8f8c8tOKMkldLX/oqcYalNM3M8SGOsdoT1Pu9YOFyaKTJsE2Tv+uEPECVysVjyvMDx/4zPOV1EHjPT7N49yuKWVmQid1qwKz', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '8f8c8tOKMkldLX/oqcYalNM3M8SGOsdoT1Pu9YOFyaKTJsE2Tv+uEPECVysVjyvMDx/4zPOV1EHjPT7N49yuKWVmQid1qwKz', 'x-amz-request-id': 'VJKWZWXDHAQTPZ49', 'date': 'Fri, 22 Nov 2024 19:10:10 GMT', 'x-amz-version-id': 'wianOwwzlOCj5DXdxjsj3TFliCKElwhc', 'x-amz-server-side-encryption': 'AES256', 'etag': '"7b2c2849418e6fc91fe03f649239ce46"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"7b2c2849418e6fc91fe03f649239ce46"', 'ServerSideEncryption': 'AES256', 'VersionId': 'wianOwwzlOCj5DXdxjsj3TFliCKElwhc'}
+2024-11-22 12:10:11,020 - app_logger - INFO - Deleted processed request with key: 1732302490751
+2024-11-22 12:10:11,118 - app_logger - INFO - Found smallest key: 1732302491016
+2024-11-22 12:10:11,201 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:11,559 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:11,644 - app_logger - INFO - Deleted processed request with key: 1732302491016
+2024-11-22 12:10:11,744 - app_logger - INFO - Found smallest key: 1732302491362
+2024-11-22 12:10:11,827 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:12,022 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:12,100 - app_logger - INFO - Deleted processed request with key: 1732302491362
+2024-11-22 12:10:12,200 - app_logger - INFO - Found smallest key: 1732302491627
+2024-11-22 12:10:12,285 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:12,435 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/4a6195ce-96b6-451c-b2d4-3f68e58180c7. Response: {'ResponseMetadata': {'RequestId': 'CN6H06JGHT9QCYVK', 'HostId': '/hgfObEMHr9Lkl/rhZ+PqmXAwyBFkoHDwwhTBQKbwAbAWky+L99EpX4CTttmQ3mwKaKn3QloPaiK2TkESCgw9J2sFqKAtz+c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '/hgfObEMHr9Lkl/rhZ+PqmXAwyBFkoHDwwhTBQKbwAbAWky+L99EpX4CTttmQ3mwKaKn3QloPaiK2TkESCgw9J2sFqKAtz+c', 'x-amz-request-id': 'CN6H06JGHT9QCYVK', 'date': 'Fri, 22 Nov 2024 19:10:12 GMT', 'x-amz-version-id': '0YpbFMIX9wAq8D3DoFzJPFx0RGdV00yG', 'x-amz-server-side-encryption': 'AES256', 'etag': '"c5df649d10d9a092fdfe6438eeb18ff0"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"c5df649d10d9a092fdfe6438eeb18ff0"', 'ServerSideEncryption': 'AES256', 'VersionId': '0YpbFMIX9wAq8D3DoFzJPFx0RGdV00yG'}
+2024-11-22 12:10:12,519 - app_logger - INFO - Deleted processed request with key: 1732302491627
+2024-11-22 12:10:12,624 - app_logger - INFO - Found smallest key: 1732302491888
+2024-11-22 12:10:12,706 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:12,857 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:12,937 - app_logger - INFO - Deleted processed request with key: 1732302491888
+2024-11-22 12:10:13,032 - app_logger - INFO - Found smallest key: 1732302492155
+2024-11-22 12:10:13,117 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:13,294 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:13,382 - app_logger - INFO - Deleted processed request with key: 1732302492155
+2024-11-22 12:10:13,476 - app_logger - INFO - Found smallest key: 1732302492530
+2024-11-22 12:10:13,558 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:13,712 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/534f41d3-2367-4aed-9b1d-6f3c9d20ff5d. Response: {'ResponseMetadata': {'RequestId': 'EBE9VFZEERDGWT0Q', 'HostId': 'plrbpj/8V0yp/fcRNGXBUdkNLTk2Hkn7Av9o4kq/x8JWPGxeBH3NIDR645dQQlbff2a6z6vhKVD1w0JiozYs1L6NssgyeVme', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'plrbpj/8V0yp/fcRNGXBUdkNLTk2Hkn7Av9o4kq/x8JWPGxeBH3NIDR645dQQlbff2a6z6vhKVD1w0JiozYs1L6NssgyeVme', 'x-amz-request-id': 'EBE9VFZEERDGWT0Q', 'date': 'Fri, 22 Nov 2024 19:10:13 GMT', 'x-amz-version-id': 'Ia3bY8TkPGkfdVgoH7BmmSUGMpxaGJYA', 'x-amz-server-side-encryption': 'AES256', 'etag': '"43cd097ef7692a5604f058698d4f287c"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"43cd097ef7692a5604f058698d4f287c"', 'ServerSideEncryption': 'AES256', 'VersionId': 'Ia3bY8TkPGkfdVgoH7BmmSUGMpxaGJYA'}
+2024-11-22 12:10:13,795 - app_logger - INFO - Deleted processed request with key: 1732302492530
+2024-11-22 12:10:13,887 - app_logger - INFO - Found smallest key: 1732302492810
+2024-11-22 12:10:13,972 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:14,163 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/bc614c07-19c1-44ab-9d8d-cd08852a8598. Response: {'ResponseMetadata': {'RequestId': 'EBE9RM710BC1D6P0', 'HostId': 'HuErkLO7buhC4kal2fOYFLTRotw9tjbeAgl0h06ZKuphGiJPEPaJ8TekazegKKYuUYN4HKrlr5UNuflpN5PY8SC6kP9o+lQg', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'HuErkLO7buhC4kal2fOYFLTRotw9tjbeAgl0h06ZKuphGiJPEPaJ8TekazegKKYuUYN4HKrlr5UNuflpN5PY8SC6kP9o+lQg', 'x-amz-request-id': 'EBE9RM710BC1D6P0', 'date': 'Fri, 22 Nov 2024 19:10:13 GMT', 'x-amz-version-id': 'tfHekbtjDSjlpjuOcm3vp6DqWkbf5jem', 'x-amz-server-side-encryption': 'AES256', 'etag': '"5c2194191724c5a3d4fd79a7a465aa3d"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"5c2194191724c5a3d4fd79a7a465aa3d"', 'ServerSideEncryption': 'AES256', 'VersionId': 'tfHekbtjDSjlpjuOcm3vp6DqWkbf5jem'}
+2024-11-22 12:10:14,245 - app_logger - INFO - Deleted processed request with key: 1732302492810
+2024-11-22 12:10:14,337 - app_logger - INFO - Found smallest key: 1732302493073
+2024-11-22 12:10:14,422 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:14,575 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:14,658 - app_logger - INFO - Deleted processed request with key: 1732302493073
+2024-11-22 12:10:14,765 - app_logger - INFO - Found smallest key: 1732302493336
+2024-11-22 12:10:14,848 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:15,142 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:15,226 - app_logger - INFO - Deleted processed request with key: 1732302493336
+2024-11-22 12:10:15,342 - app_logger - INFO - Found smallest key: 1732302493604
+2024-11-22 12:10:15,438 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:15,594 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:15,675 - app_logger - INFO - Deleted processed request with key: 1732302493604
+2024-11-22 12:10:15,770 - app_logger - INFO - Found smallest key: 1732302493883
+2024-11-22 12:10:15,853 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:16,006 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/8b7f3b09-cd75-4b8c-95d4-d61888463ea9. Response: {'ResponseMetadata': {'RequestId': 'FYSZHNKZ7TY6VSDM', 'HostId': 'IgGp416b8nx6X8tg2d022UWpqWxiAwhBemccbDIzplIVC2gHYXr+QzzoQiCbwNKVvsm4RWZJoqiuayLYtjqWgqUuF9wNYxhP', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'IgGp416b8nx6X8tg2d022UWpqWxiAwhBemccbDIzplIVC2gHYXr+QzzoQiCbwNKVvsm4RWZJoqiuayLYtjqWgqUuF9wNYxhP', 'x-amz-request-id': 'FYSZHNKZ7TY6VSDM', 'date': 'Fri, 22 Nov 2024 19:10:15 GMT', 'x-amz-version-id': 'dqVS.cm9ffYyNHMcLd5jN_JDfay.J3K2', 'x-amz-server-side-encryption': 'AES256', 'etag': '"f2573d2d7caab9db57157338624f3c99"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"f2573d2d7caab9db57157338624f3c99"', 'ServerSideEncryption': 'AES256', 'VersionId': 'dqVS.cm9ffYyNHMcLd5jN_JDfay.J3K2'}
+2024-11-22 12:10:16,085 - app_logger - INFO - Deleted processed request with key: 1732302493883
+2024-11-22 12:10:16,178 - app_logger - INFO - Found smallest key: 1732302494149
+2024-11-22 12:10:16,255 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:16,335 - app_logger - INFO - Deleted widget with key widgets/mary-matthews/c92415c6-5424-442f-a8da-4b0d7a903c84 from S3. Response: {'ResponseMetadata': {'RequestId': '634BA55N267KHNSX', 'HostId': '0rSxAysW51gJ+IEuytW09vTaInYAMKggJjKQ5AQJFznEfmfaqmkHdP7S1fQOJcwag1gjPZF8jyRrbksG18KNG2kzehWQCraE', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': '0rSxAysW51gJ+IEuytW09vTaInYAMKggJjKQ5AQJFznEfmfaqmkHdP7S1fQOJcwag1gjPZF8jyRrbksG18KNG2kzehWQCraE', 'x-amz-request-id': '634BA55N267KHNSX', 'date': 'Fri, 22 Nov 2024 19:10:16 GMT', 'x-amz-version-id': '9hEpObZ5_fw6s7PWF5CcTpXEBExdAMaW', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': '9hEpObZ5_fw6s7PWF5CcTpXEBExdAMaW'}
+2024-11-22 12:10:16,418 - app_logger - INFO - Deleted processed request with key: 1732302494149
+2024-11-22 12:10:16,515 - app_logger - INFO - Found smallest key: 1732302494409
+2024-11-22 12:10:16,594 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:16,679 - app_logger - INFO - Deleted widget with key widgets/henry-hops/ae0b266c-aa02-4d89-8ac6-2f3dfde8b65a from S3. Response: {'ResponseMetadata': {'RequestId': '63418YBM29VX348M', 'HostId': 'CBdi2ISkImm+C8UrHXy9Haw20Ulw47gDbZk0L38eu+aaKZ8Iuou3KJlRCz0PKDIV2hVZ/bWbG+uTnWW1r3a8Psy0oKEdeaTA', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'CBdi2ISkImm+C8UrHXy9Haw20Ulw47gDbZk0L38eu+aaKZ8Iuou3KJlRCz0PKDIV2hVZ/bWbG+uTnWW1r3a8Psy0oKEdeaTA', 'x-amz-request-id': '63418YBM29VX348M', 'date': 'Fri, 22 Nov 2024 19:10:16 GMT', 'x-amz-version-id': '.9r1caK0RS9fpFH2RT4zQG_BzQinapP6', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': '.9r1caK0RS9fpFH2RT4zQG_BzQinapP6'}
+2024-11-22 12:10:16,760 - app_logger - INFO - Deleted processed request with key: 1732302494409
+2024-11-22 12:10:16,850 - app_logger - INFO - Found smallest key: 1732302494674
+2024-11-22 12:10:16,936 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:17,093 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:17,232 - app_logger - INFO - Deleted processed request with key: 1732302494674
+2024-11-22 12:10:17,323 - app_logger - INFO - Found smallest key: 1732302494937
+2024-11-22 12:10:17,433 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:17,584 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/5617c661-c8ae-4aec-bf49-ac01a3b8e517. Response: {'ResponseMetadata': {'RequestId': 'TKY8Z6N5TDES653Z', 'HostId': 'l2ju6KSP6pihsOp+OoZ+9Bu4iNnHQF2n/+nTUvmx2kR5ccde+AnOfnbfMbkptv7lcZgcE6mM4Eh/eidBou2+veFHXdjlxG8k', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'l2ju6KSP6pihsOp+OoZ+9Bu4iNnHQF2n/+nTUvmx2kR5ccde+AnOfnbfMbkptv7lcZgcE6mM4Eh/eidBou2+veFHXdjlxG8k', 'x-amz-request-id': 'TKY8Z6N5TDES653Z', 'date': 'Fri, 22 Nov 2024 19:10:17 GMT', 'x-amz-version-id': 'vvwTK.9svr5gVyGsG1fZArxS8UvfEJtj', 'x-amz-server-side-encryption': 'AES256', 'etag': '"87955041af62f98e00e49e11eb0f7ea4"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"87955041af62f98e00e49e11eb0f7ea4"', 'ServerSideEncryption': 'AES256', 'VersionId': 'vvwTK.9svr5gVyGsG1fZArxS8UvfEJtj'}
+2024-11-22 12:10:17,662 - app_logger - INFO - Deleted processed request with key: 1732302494937
+2024-11-22 12:10:17,756 - app_logger - INFO - Found smallest key: 1732302495251
+2024-11-22 12:10:17,833 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:17,913 - app_logger - INFO - Deleted widget with key widgets/john-jones/99857ab7-c817-4118-bdfb-01c7e2af19bc from S3. Response: {'ResponseMetadata': {'RequestId': 'TKY5K3ZXSZ46GQC5', 'HostId': 'TxUHmKdCN9mmKn5puutRcX4tV7kJy9qacTISrTzCZv6HRsxWHMP25j7FHNsfwOv1fvtFxJuMHpNOfPtBsL5qsNaLQBd3bJhJ', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'TxUHmKdCN9mmKn5puutRcX4tV7kJy9qacTISrTzCZv6HRsxWHMP25j7FHNsfwOv1fvtFxJuMHpNOfPtBsL5qsNaLQBd3bJhJ', 'x-amz-request-id': 'TKY5K3ZXSZ46GQC5', 'date': 'Fri, 22 Nov 2024 19:10:17 GMT', 'x-amz-version-id': 'VzgS4raX2eNzHjOXJDOT6hvjNGiqsp6T', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'VzgS4raX2eNzHjOXJDOT6hvjNGiqsp6T'}
+2024-11-22 12:10:17,998 - app_logger - INFO - Deleted processed request with key: 1732302495251
+2024-11-22 12:10:18,091 - app_logger - INFO - Found smallest key: 1732302495515
+2024-11-22 12:10:18,188 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:18,336 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:18,459 - app_logger - INFO - Deleted processed request with key: 1732302495515
+2024-11-22 12:10:18,548 - app_logger - INFO - Found smallest key: 1732302495779
+2024-11-22 12:10:18,634 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:18,795 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:18,880 - app_logger - INFO - Deleted processed request with key: 1732302495779
+2024-11-22 12:10:18,975 - app_logger - INFO - Found smallest key: 1732302496043
+2024-11-22 12:10:19,059 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:19,219 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/ae4bebc0-dcb7-46cd-a36b-f27e3c6f3302. Response: {'ResponseMetadata': {'RequestId': 'PC6Z86M1M5H733K5', 'HostId': 'EisH8v7mRzQRO0w3jCRdAyZrQVwSWvTVViqlY3zrxM/5bg8QUh4YY3EVNFqMfkdWV/x+rxTo/Y5rd3tJmtuw/o1m8XqLOx4J', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'EisH8v7mRzQRO0w3jCRdAyZrQVwSWvTVViqlY3zrxM/5bg8QUh4YY3EVNFqMfkdWV/x+rxTo/Y5rd3tJmtuw/o1m8XqLOx4J', 'x-amz-request-id': 'PC6Z86M1M5H733K5', 'date': 'Fri, 22 Nov 2024 19:10:18 GMT', 'x-amz-version-id': 'rWu9BeebA_HAylA1sjaneZRkCTBjsE0b', 'x-amz-server-side-encryption': 'AES256', 'etag': '"2c696ce12081daa3d657e26c9ff99f5b"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"2c696ce12081daa3d657e26c9ff99f5b"', 'ServerSideEncryption': 'AES256', 'VersionId': 'rWu9BeebA_HAylA1sjaneZRkCTBjsE0b'}
+2024-11-22 12:10:19,298 - app_logger - INFO - Deleted processed request with key: 1732302496043
+2024-11-22 12:10:19,391 - app_logger - INFO - Found smallest key: 1732302496356
+2024-11-22 12:10:19,471 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:19,623 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/399aa237-b150-4dc8-847a-ddbd5d17bdf4. Response: {'ResponseMetadata': {'RequestId': 'NY2W3AB11ZR26GKV', 'HostId': 'TbBHr62eeHVlRgpQ41TjoOCQrgWCiOEnvAICOF154K5FXCJnGj9QhlN+pRdzOnN/vXFYVgmgH6S46LElbtPcWMltNNa91Vux', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'TbBHr62eeHVlRgpQ41TjoOCQrgWCiOEnvAICOF154K5FXCJnGj9QhlN+pRdzOnN/vXFYVgmgH6S46LElbtPcWMltNNa91Vux', 'x-amz-request-id': 'NY2W3AB11ZR26GKV', 'date': 'Fri, 22 Nov 2024 19:10:19 GMT', 'x-amz-version-id': '_.9_e9APOol4TwvjajOJ1UDNPhpzD6At', 'x-amz-server-side-encryption': 'AES256', 'etag': '"40f1e4d9458c96b5854f5387dbe3d49c"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"40f1e4d9458c96b5854f5387dbe3d49c"', 'ServerSideEncryption': 'AES256', 'VersionId': '_.9_e9APOol4TwvjajOJ1UDNPhpzD6At'}
+2024-11-22 12:10:19,703 - app_logger - INFO - Deleted processed request with key: 1732302496356
+2024-11-22 12:10:19,794 - app_logger - INFO - Found smallest key: 1732302496621
+2024-11-22 12:10:19,872 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:19,952 - app_logger - INFO - Deleted widget with key widgets/sue-smith/fb93cf2d-19fe-442b-9081-fd1314e0ce3a from S3. Response: {'ResponseMetadata': {'RequestId': 'NY2RNC4J8VHPVH6Y', 'HostId': 'ASl9QL5/M/YRQpT7yWgOwkybffYB2J/oVrqJuK4zWatGBYpmfoZMX/tAFDU42lTsrFmAiZnWIBL6JqJ6v8uYlD0wnaHmI9Dq', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'ASl9QL5/M/YRQpT7yWgOwkybffYB2J/oVrqJuK4zWatGBYpmfoZMX/tAFDU42lTsrFmAiZnWIBL6JqJ6v8uYlD0wnaHmI9Dq', 'x-amz-request-id': 'NY2RNC4J8VHPVH6Y', 'date': 'Fri, 22 Nov 2024 19:10:19 GMT', 'x-amz-version-id': 'j6zHAR39F0x4WVQ2TdrNx6I3QpDJiKId', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'j6zHAR39F0x4WVQ2TdrNx6I3QpDJiKId'}
+2024-11-22 12:10:20,032 - app_logger - INFO - Deleted processed request with key: 1732302496621
+2024-11-22 12:10:20,121 - app_logger - INFO - Found smallest key: 1732302496885
+2024-11-22 12:10:20,206 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:20,358 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/fee34a86-f484-4b20-9b99-6f7fa8e8b43b. Response: {'ResponseMetadata': {'RequestId': '80W5NRVKKGYZHGHC', 'HostId': 'Zz9lM0CAlu/PxCfiPu/UDMlsnWGJ8pdabuQOJl5YVpA5jy06WSH2LKEOxXOvMAJTacs8qgXTj6FUxQwLKCho7KfxoXHXyJLE', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'Zz9lM0CAlu/PxCfiPu/UDMlsnWGJ8pdabuQOJl5YVpA5jy06WSH2LKEOxXOvMAJTacs8qgXTj6FUxQwLKCho7KfxoXHXyJLE', 'x-amz-request-id': '80W5NRVKKGYZHGHC', 'date': 'Fri, 22 Nov 2024 19:10:20 GMT', 'x-amz-version-id': 'HgloxRtYXsRl_NNRd41b8Uz69lNFjjJi', 'x-amz-server-side-encryption': 'AES256', 'etag': '"3874956b8ab489b68c6aff7d1df60874"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"3874956b8ab489b68c6aff7d1df60874"', 'ServerSideEncryption': 'AES256', 'VersionId': 'HgloxRtYXsRl_NNRd41b8Uz69lNFjjJi'}
+2024-11-22 12:10:20,443 - app_logger - INFO - Deleted processed request with key: 1732302496885
+2024-11-22 12:10:20,535 - app_logger - INFO - Found smallest key: 1732302497151
+2024-11-22 12:10:21,043 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:21,195 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/4a8eecd6-8f02-4764-b051-bb64ce5508c8. Response: {'ResponseMetadata': {'RequestId': '80WDVFCFBBX4Y14B', 'HostId': 'uWHCGoyV5a5FubIiXRoaUVVSl0Mu0QdrYcNlH/6tk/XNqEbqPq9r9BEvFRp9fW6J3x63Kg5lQYcwohuMoZDo20E35nPyGGDM', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'uWHCGoyV5a5FubIiXRoaUVVSl0Mu0QdrYcNlH/6tk/XNqEbqPq9r9BEvFRp9fW6J3x63Kg5lQYcwohuMoZDo20E35nPyGGDM', 'x-amz-request-id': '80WDVFCFBBX4Y14B', 'date': 'Fri, 22 Nov 2024 19:10:20 GMT', 'x-amz-version-id': '9FHAgti_3jnZbS.ETvJVk7yPEan8_dSz', 'x-amz-server-side-encryption': 'AES256', 'etag': '"6f452411824ed2a3ae13d204950bb0da"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"6f452411824ed2a3ae13d204950bb0da"', 'ServerSideEncryption': 'AES256', 'VersionId': '9FHAgti_3jnZbS.ETvJVk7yPEan8_dSz'}
+2024-11-22 12:10:21,282 - app_logger - INFO - Deleted processed request with key: 1732302497151
+2024-11-22 12:10:21,399 - app_logger - INFO - Found smallest key: 1732302497677
+2024-11-22 12:10:21,500 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:21,580 - app_logger - INFO - Deleted widget with key widgets/john-jones/8b7f3b09-cd75-4b8c-95d4-d61888463ea9 from S3. Response: {'ResponseMetadata': {'RequestId': 'N1WM5QQ0VP9R6W6P', 'HostId': 'ewH1j50yB+SaOhi01ewNVFbUMGfAfxTfbWJoaHiXhZcm/KYosTv9WJOWbsJNMnnGgyWPBfCyquCjUM/FCWBP6JlWTs5qY6o5', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'ewH1j50yB+SaOhi01ewNVFbUMGfAfxTfbWJoaHiXhZcm/KYosTv9WJOWbsJNMnnGgyWPBfCyquCjUM/FCWBP6JlWTs5qY6o5', 'x-amz-request-id': 'N1WM5QQ0VP9R6W6P', 'date': 'Fri, 22 Nov 2024 19:10:21 GMT', 'x-amz-version-id': '9lwMuSBKP40VYfX1XGX6oCdlsYOE_eSp', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': '9lwMuSBKP40VYfX1XGX6oCdlsYOE_eSp'}
+2024-11-22 12:10:21,660 - app_logger - INFO - Deleted processed request with key: 1732302497677
+2024-11-22 12:10:21,757 - app_logger - INFO - Found smallest key: 1732302497939
+2024-11-22 12:10:21,845 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:21,998 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:22,085 - app_logger - INFO - Deleted processed request with key: 1732302497939
+2024-11-22 12:10:22,176 - app_logger - INFO - Found smallest key: 1732302498205
+2024-11-22 12:10:22,262 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:22,433 - app_logger - INFO - Updated widget in S3 with key widgets/sue-smith/8714e138-0079-4c78-b04a-b79b19b75a95. Response: {'ResponseMetadata': {'RequestId': '7AJRPRGHYF3D1NPN', 'HostId': 'jmEiul5KyAqVzWmKfjmblVkW75vmpgUm85UK7EPyvWQxMYnRD450/I4YjQund58cqa2akHpUqmZroo94GKBFKscCMRERlphX', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'jmEiul5KyAqVzWmKfjmblVkW75vmpgUm85UK7EPyvWQxMYnRD450/I4YjQund58cqa2akHpUqmZroo94GKBFKscCMRERlphX', 'x-amz-request-id': '7AJRPRGHYF3D1NPN', 'date': 'Fri, 22 Nov 2024 19:10:22 GMT', 'x-amz-version-id': 'ujsNv5oYH59DfJ9vJI5zkt__eQno5lXM', 'x-amz-server-side-encryption': 'AES256', 'etag': '"e94cde693ca3badc4893931295975ef9"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"e94cde693ca3badc4893931295975ef9"', 'ServerSideEncryption': 'AES256', 'VersionId': 'ujsNv5oYH59DfJ9vJI5zkt__eQno5lXM'}
+2024-11-22 12:10:22,534 - app_logger - INFO - Deleted processed request with key: 1732302498205
+2024-11-22 12:10:22,629 - app_logger - INFO - Found smallest key: 1732302498483
+2024-11-22 12:10:22,714 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:22,865 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/ca96dc87-3d39-42cf-b79f-ce6d9771e100. Response: {'ResponseMetadata': {'RequestId': '7AJS8CQ8BB0XSYYS', 'HostId': 'nfg8ekgZNgp6JPigECDfObycEu1ZMkBmaMduyV0yL3Qw/1pK7NzEPMUmRb9tp5OC0Mnh7GrpeqULMzMMxnaj0G75xjI8Rd2S', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'nfg8ekgZNgp6JPigECDfObycEu1ZMkBmaMduyV0yL3Qw/1pK7NzEPMUmRb9tp5OC0Mnh7GrpeqULMzMMxnaj0G75xjI8Rd2S', 'x-amz-request-id': '7AJS8CQ8BB0XSYYS', 'date': 'Fri, 22 Nov 2024 19:10:22 GMT', 'x-amz-version-id': 'mZr.t2BjDEQiVJiYHYvs_MMCv_r06DO6', 'x-amz-server-side-encryption': 'AES256', 'etag': '"143bd726e0989ddfc857cc070b32a794"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"143bd726e0989ddfc857cc070b32a794"', 'ServerSideEncryption': 'AES256', 'VersionId': 'mZr.t2BjDEQiVJiYHYvs_MMCv_r06DO6'}
+2024-11-22 12:10:22,948 - app_logger - INFO - Deleted processed request with key: 1732302498483
+2024-11-22 12:10:23,039 - app_logger - INFO - Found smallest key: 1732302498748
+2024-11-22 12:10:23,133 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:23,289 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:23,371 - app_logger - INFO - Deleted processed request with key: 1732302498748
+2024-11-22 12:10:23,468 - app_logger - INFO - Found smallest key: 1732302499011
+2024-11-22 12:10:23,558 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:23,710 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:23,792 - app_logger - INFO - Deleted processed request with key: 1732302499011
+2024-11-22 12:10:23,885 - app_logger - INFO - Found smallest key: 1732302531218
+2024-11-22 12:10:23,974 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:24,132 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:24,223 - app_logger - INFO - Deleted processed request with key: 1732302531218
+2024-11-22 12:10:24,320 - app_logger - INFO - Found smallest key: 1732302531939
+2024-11-22 12:10:24,413 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:24,569 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:24,650 - app_logger - INFO - Deleted processed request with key: 1732302531939
+2024-11-22 12:10:24,740 - app_logger - INFO - Found smallest key: 1732302532199
+2024-11-22 12:10:24,823 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:24,987 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:25,070 - app_logger - INFO - Deleted processed request with key: 1732302532199
+2024-11-22 12:10:25,167 - app_logger - INFO - Found smallest key: 1732302532464
+2024-11-22 12:10:25,250 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:25,412 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:25,495 - app_logger - INFO - Deleted processed request with key: 1732302532464
+2024-11-22 12:10:25,585 - app_logger - INFO - Found smallest key: 1732302532730
+2024-11-22 12:10:25,673 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:26,366 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:26,446 - app_logger - INFO - Deleted processed request with key: 1732302532730
+2024-11-22 12:10:26,537 - app_logger - INFO - Found smallest key: 1732302533008
+2024-11-22 12:10:26,623 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:26,787 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:26,869 - app_logger - INFO - Deleted processed request with key: 1732302533008
+2024-11-22 12:10:26,962 - app_logger - INFO - Found smallest key: 1732302533357
+2024-11-22 12:10:27,048 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:27,221 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:27,301 - app_logger - INFO - Deleted processed request with key: 1732302533357
+2024-11-22 12:10:27,394 - app_logger - INFO - Found smallest key: 1732302533615
+2024-11-22 12:10:27,492 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:27,791 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:27,872 - app_logger - INFO - Deleted processed request with key: 1732302533615
+2024-11-22 12:10:27,980 - app_logger - INFO - Found smallest key: 1732302533879
+2024-11-22 12:10:28,065 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:28,252 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:28,339 - app_logger - INFO - Deleted processed request with key: 1732302533879
+2024-11-22 12:10:28,429 - app_logger - INFO - Found smallest key: 1732302534141
+2024-11-22 12:10:28,517 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:28,668 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:28,753 - app_logger - INFO - Deleted processed request with key: 1732302534141
+2024-11-22 12:10:28,845 - app_logger - INFO - Found smallest key: 1732302534405
+2024-11-22 12:10:28,931 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:29,093 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:29,176 - app_logger - INFO - Deleted processed request with key: 1732302534405
+2024-11-22 12:10:29,264 - app_logger - INFO - Found smallest key: 1732302534672
+2024-11-22 12:10:29,379 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:29,529 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:29,610 - app_logger - INFO - Deleted processed request with key: 1732302534672
+2024-11-22 12:10:29,706 - app_logger - INFO - Found smallest key: 1732302534938
+2024-11-22 12:10:29,794 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:29,954 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:30,045 - app_logger - INFO - Deleted processed request with key: 1732302534938
+2024-11-22 12:10:30,133 - app_logger - INFO - Found smallest key: 1732302535266
+2024-11-22 12:10:30,221 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:30,370 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:30,460 - app_logger - INFO - Deleted processed request with key: 1732302535266
+2024-11-22 12:10:30,554 - app_logger - INFO - Found smallest key: 1732302535530
+2024-11-22 12:10:30,641 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:31,031 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:31,114 - app_logger - INFO - Deleted processed request with key: 1732302535530
+2024-11-22 12:10:31,204 - app_logger - INFO - Found smallest key: 1732302535794
+2024-11-22 12:10:31,294 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:31,450 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:31,540 - app_logger - INFO - Deleted processed request with key: 1732302535794
+2024-11-22 12:10:31,631 - app_logger - INFO - Found smallest key: 1732302536059
+2024-11-22 12:10:31,718 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:31,871 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:31,957 - app_logger - INFO - Deleted processed request with key: 1732302536059
+2024-11-22 12:10:32,046 - app_logger - INFO - Found smallest key: 1732302536620
+2024-11-22 12:10:32,135 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:32,367 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:32,454 - app_logger - INFO - Deleted processed request with key: 1732302536620
+2024-11-22 12:10:32,544 - app_logger - INFO - Found smallest key: 1732302536871
+2024-11-22 12:10:32,629 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:33,018 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:33,103 - app_logger - INFO - Deleted processed request with key: 1732302536871
+2024-11-22 12:10:33,191 - app_logger - INFO - Found smallest key: 1732302537134
+2024-11-22 12:10:33,294 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:33,454 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:33,538 - app_logger - INFO - Deleted processed request with key: 1732302537134
+2024-11-22 12:10:33,632 - app_logger - INFO - Found smallest key: 1732302537398
+2024-11-22 12:10:33,718 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:33,877 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:33,959 - app_logger - INFO - Deleted processed request with key: 1732302537398
+2024-11-22 12:10:34,046 - app_logger - INFO - Found smallest key: 1732302537662
+2024-11-22 12:10:34,133 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:34,296 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:34,380 - app_logger - INFO - Deleted processed request with key: 1732302537662
+2024-11-22 12:10:34,545 - app_logger - INFO - Found smallest key: 1732302537927
+2024-11-22 12:10:34,700 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:34,849 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:34,932 - app_logger - INFO - Deleted processed request with key: 1732302537927
+2024-11-22 12:10:35,023 - app_logger - INFO - Found smallest key: 1732302538189
+2024-11-22 12:10:35,110 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:35,267 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:35,358 - app_logger - INFO - Deleted processed request with key: 1732302538189
+2024-11-22 12:10:44,052 - app_logger - INFO - Starting the application...
+2024-11-22 12:10:44,056 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 's3', 'destination': 'usu-cs5250-matt-web'}
+2024-11-22 12:10:44,105 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:10:44,256 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=s3, destination=usu-cs5250-matt-web
+2024-11-22 12:10:44,256 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:10:44,795 - app_logger - INFO - Found smallest key: 1732302538456
+2024-11-22 12:10:44,879 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:45,460 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:45,542 - app_logger - INFO - Deleted processed request with key: 1732302538456
+2024-11-22 12:10:45,630 - app_logger - INFO - Found smallest key: 1732302538724
+2024-11-22 12:10:45,713 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:45,875 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:45,956 - app_logger - INFO - Deleted processed request with key: 1732302538724
+2024-11-22 12:10:46,048 - app_logger - INFO - Found smallest key: 1732302538984
+2024-11-22 12:10:46,132 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:46,287 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:46,368 - app_logger - INFO - Deleted processed request with key: 1732302538984
+2024-11-22 12:10:46,463 - app_logger - INFO - Found smallest key: 1732302539251
+2024-11-22 12:10:46,546 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:46,708 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:46,813 - app_logger - INFO - Deleted processed request with key: 1732302539251
+2024-11-22 12:10:46,905 - app_logger - INFO - Found smallest key: 1732302539530
+2024-11-22 12:10:46,996 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:47,159 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:47,241 - app_logger - INFO - Deleted processed request with key: 1732302539530
+2024-11-22 12:10:47,325 - app_logger - INFO - Found smallest key: 1732302539795
+2024-11-22 12:10:47,412 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:47,864 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:47,945 - app_logger - INFO - Deleted processed request with key: 1732302539795
+2024-11-22 12:10:48,033 - app_logger - INFO - Found smallest key: 1732302540059
+2024-11-22 12:10:48,119 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:48,279 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:48,363 - app_logger - INFO - Deleted processed request with key: 1732302540059
+2024-11-22 12:10:48,450 - app_logger - INFO - Found smallest key: 1732302540322
+2024-11-22 12:10:48,536 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:48,771 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:48,852 - app_logger - INFO - Deleted processed request with key: 1732302540322
+2024-11-22 12:10:48,939 - app_logger - INFO - Found smallest key: 1732302540632
+2024-11-22 12:10:49,025 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:49,183 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:49,266 - app_logger - INFO - Deleted processed request with key: 1732302540632
+2024-11-22 12:10:49,356 - app_logger - INFO - Found smallest key: 1732302540897
+2024-11-22 12:10:49,442 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:49,609 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:49,688 - app_logger - INFO - Deleted processed request with key: 1732302540897
+2024-11-22 12:10:49,773 - app_logger - INFO - Found smallest key: 1732302541159
+2024-11-22 12:10:49,879 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:50,035 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:50,116 - app_logger - INFO - Deleted processed request with key: 1732302541159
+2024-11-22 12:10:50,203 - app_logger - INFO - Found smallest key: 1732302541409
+2024-11-22 12:10:50,285 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:50,441 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:50,582 - app_logger - INFO - Deleted processed request with key: 1732302541409
+2024-11-22 12:10:50,670 - app_logger - INFO - Found smallest key: 1732302541673
+2024-11-22 12:10:50,754 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:50,914 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:51,000 - app_logger - INFO - Deleted processed request with key: 1732302541673
+2024-11-22 12:10:51,090 - app_logger - INFO - Found smallest key: 1732302541937
+2024-11-22 12:10:51,173 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:51,350 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:51,430 - app_logger - INFO - Deleted processed request with key: 1732302541937
+2024-11-22 12:10:51,514 - app_logger - INFO - Found smallest key: 1732302542203
+2024-11-22 12:10:51,598 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:51,757 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:51,840 - app_logger - INFO - Deleted processed request with key: 1732302542203
+2024-11-22 12:10:51,927 - app_logger - INFO - Found smallest key: 1732302542465
+2024-11-22 12:10:52,012 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:52,197 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:52,281 - app_logger - INFO - Deleted processed request with key: 1732302542465
+2024-11-22 12:10:52,366 - app_logger - INFO - Found smallest key: 1732302542716
+2024-11-22 12:10:52,448 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:52,939 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/20186275-218c-4fec-820f-94a63ca46b01. Response: {'ResponseMetadata': {'RequestId': '3J02QCAY0MJX985D', 'HostId': 'm/lHqWplgSc8K4lCMFzpMv9B2YvaMrQ4lUmM87UrrBDbgYGKp6ngQ0wAtLlaLb1hIZXLvsYZkrqlBusMNjLBF2HjobqmplJJQhe+ltdCpdg=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'm/lHqWplgSc8K4lCMFzpMv9B2YvaMrQ4lUmM87UrrBDbgYGKp6ngQ0wAtLlaLb1hIZXLvsYZkrqlBusMNjLBF2HjobqmplJJQhe+ltdCpdg=', 'x-amz-request-id': '3J02QCAY0MJX985D', 'date': 'Fri, 22 Nov 2024 19:10:52 GMT', 'x-amz-version-id': 'EQF2G2f5cFIVnpjiHsv7Ff23Yj4bYqWy', 'x-amz-server-side-encryption': 'AES256', 'etag': '"a71c0beb9773707247781a343bd6a2ef"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"a71c0beb9773707247781a343bd6a2ef"', 'ServerSideEncryption': 'AES256', 'VersionId': 'EQF2G2f5cFIVnpjiHsv7Ff23Yj4bYqWy'}
+2024-11-22 12:10:53,020 - app_logger - INFO - Deleted processed request with key: 1732302542716
+2024-11-22 12:10:53,111 - app_logger - INFO - Found smallest key: 1732302542978
+2024-11-22 12:10:53,199 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:53,364 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:53,446 - app_logger - INFO - Deleted processed request with key: 1732302542978
+2024-11-22 12:10:53,533 - app_logger - INFO - Found smallest key: 1732302543242
+2024-11-22 12:10:53,618 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:53,777 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:53,856 - app_logger - INFO - Deleted processed request with key: 1732302543242
+2024-11-22 12:10:53,944 - app_logger - INFO - Found smallest key: 1732302543506
+2024-11-22 12:10:54,027 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:54,187 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/18104f96-4595-4707-964a-8bc77f9771c2. Response: {'ResponseMetadata': {'RequestId': '2MJQ3EYQN3B13ARR', 'HostId': 'w0304kKe9XDL9hyO74JUsu/z7CORZIpuK7tS+0UFdI4suaG7czG0syDPvDH5uWOTMg94pfo/mv1ecQvbH5c+0li6o/6WGBxVZ+00ZJ5vNR0=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'w0304kKe9XDL9hyO74JUsu/z7CORZIpuK7tS+0UFdI4suaG7czG0syDPvDH5uWOTMg94pfo/mv1ecQvbH5c+0li6o/6WGBxVZ+00ZJ5vNR0=', 'x-amz-request-id': '2MJQ3EYQN3B13ARR', 'date': 'Fri, 22 Nov 2024 19:10:53 GMT', 'x-amz-version-id': 'doMuk6SDKYNOjD6TIArQ_rhpUFsdZyln', 'x-amz-server-side-encryption': 'AES256', 'etag': '"9c6dbdd1210f27fa62aaeda69f23c908"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"9c6dbdd1210f27fa62aaeda69f23c908"', 'ServerSideEncryption': 'AES256', 'VersionId': 'doMuk6SDKYNOjD6TIArQ_rhpUFsdZyln'}
+2024-11-22 12:10:54,270 - app_logger - INFO - Deleted processed request with key: 1732302543506
+2024-11-22 12:10:54,355 - app_logger - INFO - Found smallest key: 1732302543803
+2024-11-22 12:10:54,473 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:54,634 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:54,715 - app_logger - INFO - Deleted processed request with key: 1732302543803
+2024-11-22 12:10:54,806 - app_logger - INFO - Found smallest key: 1732302544067
+2024-11-22 12:10:54,888 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:55,046 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:55,127 - app_logger - INFO - Deleted processed request with key: 1732302544067
+2024-11-22 12:10:55,225 - app_logger - INFO - Found smallest key: 1732302544316
+2024-11-22 12:10:55,303 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:55,390 - app_logger - INFO - Deleted widget with key widgets/mary-matthews/c7891f7a-fbe9-4472-9af9-1a7d8bed5d72 from S3. Response: {'ResponseMetadata': {'RequestId': '0AKM5WW873X0SX2W', 'HostId': 'u1RjeKPJaOGci1tMV+wtHKaax21A425ZxsYpurK1hE3qg7o09SHjEX+ZA73bO+8pHHsRr5cjAOXptF62VKibvhMtCPiU+JE88Z6yExnePrI=', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'u1RjeKPJaOGci1tMV+wtHKaax21A425ZxsYpurK1hE3qg7o09SHjEX+ZA73bO+8pHHsRr5cjAOXptF62VKibvhMtCPiU+JE88Z6yExnePrI=', 'x-amz-request-id': '0AKM5WW873X0SX2W', 'date': 'Fri, 22 Nov 2024 19:10:55 GMT', 'x-amz-version-id': '9qaqXs_KFPYIephiIvIzRVzcM4rsv6kM', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': '9qaqXs_KFPYIephiIvIzRVzcM4rsv6kM'}
+2024-11-22 12:10:55,472 - app_logger - INFO - Deleted processed request with key: 1732302544316
+2024-11-22 12:10:55,559 - app_logger - INFO - Found smallest key: 1732302544565
+2024-11-22 12:10:55,684 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:55,846 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/c360c31f-c384-4946-8dd6-707819139b75. Response: {'ResponseMetadata': {'RequestId': '0AKJQ9PHR5FZ4CAD', 'HostId': 'goVckFa2o2L9yiporDP40gVuRg4dcfwwawLsRXiD95IUyoIxo68Cq/DklHP3rUKSwuuzhAik2AKof8rhFtvaO+1a5Z8os9rXZAg4jYiYdZQ=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'goVckFa2o2L9yiporDP40gVuRg4dcfwwawLsRXiD95IUyoIxo68Cq/DklHP3rUKSwuuzhAik2AKof8rhFtvaO+1a5Z8os9rXZAg4jYiYdZQ=', 'x-amz-request-id': '0AKJQ9PHR5FZ4CAD', 'date': 'Fri, 22 Nov 2024 19:10:55 GMT', 'x-amz-version-id': 'kbgyEk0GGjWaCKEBNSS6aP0YnYfwNz_L', 'x-amz-server-side-encryption': 'AES256', 'etag': '"3a8b0c8a0bac955089f044a170080144"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"3a8b0c8a0bac955089f044a170080144"', 'ServerSideEncryption': 'AES256', 'VersionId': 'kbgyEk0GGjWaCKEBNSS6aP0YnYfwNz_L'}
+2024-11-22 12:10:55,926 - app_logger - INFO - Deleted processed request with key: 1732302544565
+2024-11-22 12:10:56,012 - app_logger - INFO - Found smallest key: 1732302544829
+2024-11-22 12:10:56,098 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:56,255 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:56,338 - app_logger - INFO - Deleted processed request with key: 1732302544829
+2024-11-22 12:10:56,423 - app_logger - INFO - Found smallest key: 1732302545110
+2024-11-22 12:10:56,509 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:56,668 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:56,752 - app_logger - INFO - Deleted processed request with key: 1732302545110
+2024-11-22 12:10:56,840 - app_logger - INFO - Found smallest key: 1732302545374
+2024-11-22 12:10:56,923 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:57,086 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:57,169 - app_logger - INFO - Deleted processed request with key: 1732302545374
+2024-11-22 12:10:57,255 - app_logger - INFO - Found smallest key: 1732302545623
+2024-11-22 12:10:57,333 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:10:57,419 - app_logger - INFO - Deleted widget with key widgets/john-jones/f3921dad-91a4-45f7-8f7e-3316872b18f0 from S3. Response: {'ResponseMetadata': {'RequestId': 'XK11QEYANKDF611M', 'HostId': 'j+eWJkzdWdCAOmp7flrZ1L1FdZvazMbnnLF2PbR00kIlSKqDveVPa0ZHJ9QtorJFBhErVV1+c0M/EsuqLYlYOLM5PZHszfdlbgUF90F6AwY=', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'j+eWJkzdWdCAOmp7flrZ1L1FdZvazMbnnLF2PbR00kIlSKqDveVPa0ZHJ9QtorJFBhErVV1+c0M/EsuqLYlYOLM5PZHszfdlbgUF90F6AwY=', 'x-amz-request-id': 'XK11QEYANKDF611M', 'date': 'Fri, 22 Nov 2024 19:10:57 GMT', 'x-amz-version-id': 'EOQrdsIIViWFfxPJPQVnDW7yzK1ApkXd', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'EOQrdsIIViWFfxPJPQVnDW7yzK1ApkXd'}
+2024-11-22 12:10:57,499 - app_logger - INFO - Deleted processed request with key: 1732302545623
+2024-11-22 12:10:57,586 - app_logger - INFO - Found smallest key: 1732302545872
+2024-11-22 12:10:57,668 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:57,831 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/6e79f687-78b4-496d-996f-c84d54d5841a. Response: {'ResponseMetadata': {'RequestId': 'XK16CW0M5RMFA2VJ', 'HostId': '0det3r76giiMnAQTvysHOMLDU1+0vyTpP3qg871slVo9jCzFRyu8qxK+5WbN8b6ZbvxYif7OJ/W5LAOqHqCX/WCVBnGJhlM7FvWBXmit/g8=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '0det3r76giiMnAQTvysHOMLDU1+0vyTpP3qg871slVo9jCzFRyu8qxK+5WbN8b6ZbvxYif7OJ/W5LAOqHqCX/WCVBnGJhlM7FvWBXmit/g8=', 'x-amz-request-id': 'XK16CW0M5RMFA2VJ', 'date': 'Fri, 22 Nov 2024 19:10:57 GMT', 'x-amz-version-id': 'Ue7sHIYDK3.2Y59jkR8jQIxIowoZBUmJ', 'x-amz-server-side-encryption': 'AES256', 'etag': '"7a681127c0a596100a56358025fe5f7b"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"7a681127c0a596100a56358025fe5f7b"', 'ServerSideEncryption': 'AES256', 'VersionId': 'Ue7sHIYDK3.2Y59jkR8jQIxIowoZBUmJ'}
+2024-11-22 12:10:57,913 - app_logger - INFO - Deleted processed request with key: 1732302545872
+2024-11-22 12:10:57,996 - app_logger - INFO - Found smallest key: 1732302546138
+2024-11-22 12:10:58,080 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:58,250 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:58,330 - app_logger - INFO - Deleted processed request with key: 1732302546138
+2024-11-22 12:10:58,415 - app_logger - INFO - Found smallest key: 1732302546479
+2024-11-22 12:10:58,547 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:10:58,710 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/1474ae4d-a4a3-4ec4-b082-f9b83fadd059. Response: {'ResponseMetadata': {'RequestId': 'SAJYMT6EH5YGTPQV', 'HostId': '0jMfhFA0OaDDyFJpss8PYXw5gwFgaqt1Nd8IJTDw04vsWR3zGnzVsiQz3kAVwWTii4ve53IMECuvUTdjhSgTXzwp5hcZBpi7GD9sI3cI8yE=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '0jMfhFA0OaDDyFJpss8PYXw5gwFgaqt1Nd8IJTDw04vsWR3zGnzVsiQz3kAVwWTii4ve53IMECuvUTdjhSgTXzwp5hcZBpi7GD9sI3cI8yE=', 'x-amz-request-id': 'SAJYMT6EH5YGTPQV', 'date': 'Fri, 22 Nov 2024 19:10:58 GMT', 'x-amz-version-id': 'yY1G6HCJAMZe2ZVxH5eRVpR.K06s3RPx', 'x-amz-server-side-encryption': 'AES256', 'etag': '"ffacca3c4d99068884c18067cf8740a7"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"ffacca3c4d99068884c18067cf8740a7"', 'ServerSideEncryption': 'AES256', 'VersionId': 'yY1G6HCJAMZe2ZVxH5eRVpR.K06s3RPx'}
+2024-11-22 12:10:58,790 - app_logger - INFO - Deleted processed request with key: 1732302546479
+2024-11-22 12:10:58,877 - app_logger - INFO - Found smallest key: 1732302546744
+2024-11-22 12:10:58,963 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:59,122 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:59,201 - app_logger - INFO - Deleted processed request with key: 1732302546744
+2024-11-22 12:10:59,329 - app_logger - INFO - Found smallest key: 1732302547007
+2024-11-22 12:10:59,412 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:10:59,571 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:10:59,675 - app_logger - INFO - Deleted processed request with key: 1732302547007
+2024-11-22 12:10:59,760 - app_logger - INFO - Found smallest key: 1732302547272
+2024-11-22 12:11:00,270 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:00,428 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:00,508 - app_logger - INFO - Deleted processed request with key: 1732302547272
+2024-11-22 12:11:00,594 - app_logger - INFO - Found smallest key: 1732302547539
+2024-11-22 12:11:00,679 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:00,837 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:00,921 - app_logger - INFO - Deleted processed request with key: 1732302547539
+2024-11-22 12:11:01,007 - app_logger - INFO - Found smallest key: 1732302547802
+2024-11-22 12:11:01,091 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:01,250 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/951a1a32-618c-4512-84ca-f4047cd85774. Response: {'ResponseMetadata': {'RequestId': 'XK95YJQTASJD1YXV', 'HostId': 'ACqQaA9eq8XaCdSrBRoHNetG9LHsulYm6LJwF7SL26l/VFmFUv7FRlj+ZGOtpl+4npXwbo614PJNZkSVf9LITmEce79OwihbG6REY9uH+jw=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'ACqQaA9eq8XaCdSrBRoHNetG9LHsulYm6LJwF7SL26l/VFmFUv7FRlj+ZGOtpl+4npXwbo614PJNZkSVf9LITmEce79OwihbG6REY9uH+jw=', 'x-amz-request-id': 'XK95YJQTASJD1YXV', 'date': 'Fri, 22 Nov 2024 19:11:00 GMT', 'x-amz-version-id': 'umFBEsT5CDuxZLeY1hhS12O.so44XGNV', 'x-amz-server-side-encryption': 'AES256', 'etag': '"85306472e991c211ed72af064d421358"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"85306472e991c211ed72af064d421358"', 'ServerSideEncryption': 'AES256', 'VersionId': 'umFBEsT5CDuxZLeY1hhS12O.so44XGNV'}
+2024-11-22 12:11:01,332 - app_logger - INFO - Deleted processed request with key: 1732302547802
+2024-11-22 12:11:01,417 - app_logger - INFO - Found smallest key: 1732302548066
+2024-11-22 12:11:01,506 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:01,670 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/5983edd8-c87e-408f-8c0a-f677d0917552. Response: {'ResponseMetadata': {'RequestId': '811XAYC30WND2D3Z', 'HostId': 'AH47keegWD+rohD3L57FZbU1pNFaIpXavZNaRm5ch9zx5RhGdbRWKFwKqrxw3UyJTC0CV7HATjIP8e2ruV3Alb7gzuA0Awj/XazGIoKren0=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'AH47keegWD+rohD3L57FZbU1pNFaIpXavZNaRm5ch9zx5RhGdbRWKFwKqrxw3UyJTC0CV7HATjIP8e2ruV3Alb7gzuA0Awj/XazGIoKren0=', 'x-amz-request-id': '811XAYC30WND2D3Z', 'date': 'Fri, 22 Nov 2024 19:11:01 GMT', 'x-amz-version-id': '9lJDDkZGdqf59DAHNb7Kufr4S1_oxlh_', 'x-amz-server-side-encryption': 'AES256', 'etag': '"ba5a751621c20f3fd1bd2dc93ac97e6f"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"ba5a751621c20f3fd1bd2dc93ac97e6f"', 'ServerSideEncryption': 'AES256', 'VersionId': '9lJDDkZGdqf59DAHNb7Kufr4S1_oxlh_'}
+2024-11-22 12:11:01,756 - app_logger - INFO - Deleted processed request with key: 1732302548066
+2024-11-22 12:11:01,843 - app_logger - INFO - Found smallest key: 1732302548327
+2024-11-22 12:11:01,930 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:02,092 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:02,174 - app_logger - INFO - Deleted processed request with key: 1732302548327
+2024-11-22 12:11:02,942 - app_logger - INFO - Found smallest key: 1732302548592
+2024-11-22 12:11:03,030 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:03,192 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/f5a3e3af-e597-4113-96aa-d6fd89fc487f. Response: {'ResponseMetadata': {'RequestId': 'J2X5RWQW3BPBW3YM', 'HostId': 'sQit2WEHjGO5RaNZNOggIWXpWzL2973TQCt53AbHFkU9zAjuQ+9Y9NhKVXwDghKviiWXqIVo1bLbgOe1A4vWz0SxpJS5YWOCRjPly7kJfZU=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'sQit2WEHjGO5RaNZNOggIWXpWzL2973TQCt53AbHFkU9zAjuQ+9Y9NhKVXwDghKviiWXqIVo1bLbgOe1A4vWz0SxpJS5YWOCRjPly7kJfZU=', 'x-amz-request-id': 'J2X5RWQW3BPBW3YM', 'date': 'Fri, 22 Nov 2024 19:11:02 GMT', 'x-amz-version-id': 'NClkuKKNT89F0VyZH20Ko2uhqfaBFspi', 'x-amz-server-side-encryption': 'AES256', 'etag': '"84882eab57e6c9d7308364330302307e"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"84882eab57e6c9d7308364330302307e"', 'ServerSideEncryption': 'AES256', 'VersionId': 'NClkuKKNT89F0VyZH20Ko2uhqfaBFspi'}
+2024-11-22 12:11:03,276 - app_logger - INFO - Deleted processed request with key: 1732302548592
+2024-11-22 12:11:03,359 - app_logger - INFO - Found smallest key: 1732302548857
+2024-11-22 12:11:03,444 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:03,613 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:03,702 - app_logger - INFO - Deleted processed request with key: 1732302548857
+2024-11-22 12:11:03,786 - app_logger - INFO - Found smallest key: 1732302549155
+2024-11-22 12:11:03,873 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:04,033 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/467f780d-479e-4747-94c6-99b9ac2a452a. Response: {'ResponseMetadata': {'RequestId': '5EYTZ75Z2NF90W47', 'HostId': 'JwxRMTLQtkfKvVmQGwLxa018wYm4Y1Bjf2DSaFbsr0Gm7Cv9t8tPgz/O6C2QIEuqLi+8AgwF789u5ru/4D0et74zejxxiaXistX2v60sV7I=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'JwxRMTLQtkfKvVmQGwLxa018wYm4Y1Bjf2DSaFbsr0Gm7Cv9t8tPgz/O6C2QIEuqLi+8AgwF789u5ru/4D0et74zejxxiaXistX2v60sV7I=', 'x-amz-request-id': '5EYTZ75Z2NF90W47', 'date': 'Fri, 22 Nov 2024 19:11:03 GMT', 'x-amz-version-id': 'rseZ...5FnNaQRWnZfmyBjm2jaWUQb3Z', 'x-amz-server-side-encryption': 'AES256', 'etag': '"823d6c26d972f86b10fddc5e42f78b59"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"823d6c26d972f86b10fddc5e42f78b59"', 'ServerSideEncryption': 'AES256', 'VersionId': 'rseZ...5FnNaQRWnZfmyBjm2jaWUQb3Z'}
+2024-11-22 12:11:04,119 - app_logger - INFO - Deleted processed request with key: 1732302549155
+2024-11-22 12:11:04,205 - app_logger - INFO - Found smallest key: 1732302549415
+2024-11-22 12:11:04,292 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:04,453 - app_logger - INFO - Updated widget in S3 with key widgets/john-jones/79866aa3-3053-44ae-96f2-caf28037334d. Response: {'ResponseMetadata': {'RequestId': '44QESM0WMYM6AT55', 'HostId': 'Y9ucKXuTKH0k0fZSejA4yYjg5acFBvZqgpZ+GcHgXe4A4gq9oFDRz1ZoKJQJHvT5I4GKSA/0467ZbtZ4f59hXV4mhyOuCLdpWKIoh3jgfo0=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'Y9ucKXuTKH0k0fZSejA4yYjg5acFBvZqgpZ+GcHgXe4A4gq9oFDRz1ZoKJQJHvT5I4GKSA/0467ZbtZ4f59hXV4mhyOuCLdpWKIoh3jgfo0=', 'x-amz-request-id': '44QESM0WMYM6AT55', 'date': 'Fri, 22 Nov 2024 19:11:04 GMT', 'x-amz-version-id': '_jp69Xvmvifrf3PKF1R2PrbTw33u8J7X', 'x-amz-server-side-encryption': 'AES256', 'etag': '"c97b8aa1df41defe853a818250f58190"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"c97b8aa1df41defe853a818250f58190"', 'ServerSideEncryption': 'AES256', 'VersionId': '_jp69Xvmvifrf3PKF1R2PrbTw33u8J7X'}
+2024-11-22 12:11:04,546 - app_logger - INFO - Deleted processed request with key: 1732302549415
+2024-11-22 12:11:04,632 - app_logger - INFO - Found smallest key: 1732302549678
+2024-11-22 12:11:04,721 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:04,879 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:04,963 - app_logger - INFO - Deleted processed request with key: 1732302549678
+2024-11-22 12:11:05,050 - app_logger - INFO - Found smallest key: 1732302549945
+2024-11-22 12:11:05,139 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:05,336 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:05,420 - app_logger - INFO - Deleted processed request with key: 1732302549945
+2024-11-22 12:11:05,507 - app_logger - INFO - Found smallest key: 1732302550228
+2024-11-22 12:11:05,594 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:05,755 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:05,875 - app_logger - INFO - Deleted processed request with key: 1732302550228
+2024-11-22 12:11:05,958 - app_logger - INFO - Found smallest key: 1732302550494
+2024-11-22 12:11:06,040 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:06,206 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:06,292 - app_logger - INFO - Deleted processed request with key: 1732302550494
+2024-11-22 12:11:06,381 - app_logger - INFO - Found smallest key: 1732302550760
+2024-11-22 12:11:06,465 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:06,627 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:06,713 - app_logger - INFO - Deleted processed request with key: 1732302550760
+2024-11-22 12:11:06,797 - app_logger - INFO - Found smallest key: 1732302551087
+2024-11-22 12:11:06,882 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:07,043 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:07,126 - app_logger - INFO - Deleted processed request with key: 1732302551087
+2024-11-22 12:11:07,216 - app_logger - INFO - Found smallest key: 1732302551351
+2024-11-22 12:11:07,298 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:07,470 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:07,552 - app_logger - INFO - Deleted processed request with key: 1732302551351
+2024-11-22 12:11:07,638 - app_logger - INFO - Found smallest key: 1732302551617
+2024-11-22 12:11:07,725 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:07,886 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:07,972 - app_logger - INFO - Deleted processed request with key: 1732302551617
+2024-11-22 12:11:08,061 - app_logger - INFO - Found smallest key: 1732302551881
+2024-11-22 12:11:08,147 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:08,311 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:08,395 - app_logger - INFO - Deleted processed request with key: 1732302551881
+2024-11-22 12:11:08,480 - app_logger - INFO - Found smallest key: 1732302552145
+2024-11-22 12:11:08,921 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:09,082 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:09,164 - app_logger - INFO - Deleted processed request with key: 1732302552145
+2024-11-22 12:11:09,247 - app_logger - INFO - Found smallest key: 1732302552410
+2024-11-22 12:11:09,334 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:09,493 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/4cd4246f-8ac0-4304-9bd4-b14d4eb8c392. Response: {'ResponseMetadata': {'RequestId': '9DGRXR5K7YPXAEV5', 'HostId': 'ugh9Ea3qn+6aGAm3BsUSSdi5jpgI3F3aDmVloKhovN8SL8HXSkJlJaJnxWzxh5lLSSQagJ6TDrdfED1APp+a/dfOmgyRJ6pfXFvYD2iyb3s=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'ugh9Ea3qn+6aGAm3BsUSSdi5jpgI3F3aDmVloKhovN8SL8HXSkJlJaJnxWzxh5lLSSQagJ6TDrdfED1APp+a/dfOmgyRJ6pfXFvYD2iyb3s=', 'x-amz-request-id': '9DGRXR5K7YPXAEV5', 'date': 'Fri, 22 Nov 2024 19:11:09 GMT', 'x-amz-version-id': 't0oE6zEFKawG4AnO7IJcuZQh.dmYDbuc', 'x-amz-server-side-encryption': 'AES256', 'etag': '"1e4da27382c27f473b8f9d78381a62ef"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"1e4da27382c27f473b8f9d78381a62ef"', 'ServerSideEncryption': 'AES256', 'VersionId': 't0oE6zEFKawG4AnO7IJcuZQh.dmYDbuc'}
+2024-11-22 12:11:09,577 - app_logger - INFO - Deleted processed request with key: 1732302552410
+2024-11-22 12:11:09,660 - app_logger - INFO - Found smallest key: 1732302552675
+2024-11-22 12:11:09,750 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:09,912 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:09,997 - app_logger - INFO - Deleted processed request with key: 1732302552675
+2024-11-22 12:11:10,080 - app_logger - INFO - Found smallest key: 1732302552941
+2024-11-22 12:11:10,165 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:10,397 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:10,481 - app_logger - INFO - Deleted processed request with key: 1732302552941
+2024-11-22 12:11:10,563 - app_logger - INFO - Found smallest key: 1732302553205
+2024-11-22 12:11:10,651 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:10,810 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:10,894 - app_logger - INFO - Deleted processed request with key: 1732302553205
+2024-11-22 12:11:10,977 - app_logger - INFO - Found smallest key: 1732302553470
+2024-11-22 12:11:11,060 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:11,217 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:11,300 - app_logger - INFO - Deleted processed request with key: 1732302553470
+2024-11-22 12:11:11,554 - app_logger - INFO - Found smallest key: 1732302553733
+2024-11-22 12:11:11,647 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:11,807 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:11,890 - app_logger - INFO - Deleted processed request with key: 1732302553733
+2024-11-22 12:11:11,975 - app_logger - INFO - Found smallest key: 1732302554027
+2024-11-22 12:11:12,060 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:12,228 - app_logger - INFO - Updated widget in S3 with key widgets/sue-smith/87cb3e0b-bfe0-4adf-85f0-295cbd366e84. Response: {'ResponseMetadata': {'RequestId': 'TJAZ7DY3PH2NBQFY', 'HostId': '9DaeAUKqvBnABy9shlNkpaA6ouRuvl4OXV8OsOwybYMAyBwEUTFfV4GQFFM+ut5VOAx99hGemKIPY12PTi+4NipPDi4UITt3qerWzNUU9hk=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '9DaeAUKqvBnABy9shlNkpaA6ouRuvl4OXV8OsOwybYMAyBwEUTFfV4GQFFM+ut5VOAx99hGemKIPY12PTi+4NipPDi4UITt3qerWzNUU9hk=', 'x-amz-request-id': 'TJAZ7DY3PH2NBQFY', 'date': 'Fri, 22 Nov 2024 19:11:11 GMT', 'x-amz-version-id': '8ULWiTR0Iz4wLVrapcjtB6c5.JoJ2Bib', 'x-amz-server-side-encryption': 'AES256', 'etag': '"4cdd7b9aca4d4342a66a35cebbaf36ce"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"4cdd7b9aca4d4342a66a35cebbaf36ce"', 'ServerSideEncryption': 'AES256', 'VersionId': '8ULWiTR0Iz4wLVrapcjtB6c5.JoJ2Bib'}
+2024-11-22 12:11:12,312 - app_logger - INFO - Deleted processed request with key: 1732302554027
+2024-11-22 12:11:12,398 - app_logger - INFO - Found smallest key: 1732302554280
+2024-11-22 12:11:12,485 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:12,647 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:12,730 - app_logger - INFO - Deleted processed request with key: 1732302554280
+2024-11-22 12:11:12,814 - app_logger - INFO - Found smallest key: 1732302554545
+2024-11-22 12:11:12,902 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:13,062 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:13,154 - app_logger - INFO - Deleted processed request with key: 1732302554545
+2024-11-22 12:11:13,236 - app_logger - INFO - Found smallest key: 1732302554797
+2024-11-22 12:11:13,321 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:13,483 - app_logger - INFO - Updated widget in S3 with key widgets/mary-matthews/18104f96-4595-4707-964a-8bc77f9771c2. Response: {'ResponseMetadata': {'RequestId': 'S7VZTG3NK47YPQ96', 'HostId': 'pGSngxk+xkOO2e9G0xrX22vo72RhcBH2NhYzBSxNHtFl8Zd2iQsfq9+D3dSu+Z44uy4cbaUcpzKnfSdQFxjpIBHsIMhspE9TmuYpeSzj3MI=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'pGSngxk+xkOO2e9G0xrX22vo72RhcBH2NhYzBSxNHtFl8Zd2iQsfq9+D3dSu+Z44uy4cbaUcpzKnfSdQFxjpIBHsIMhspE9TmuYpeSzj3MI=', 'x-amz-request-id': 'S7VZTG3NK47YPQ96', 'date': 'Fri, 22 Nov 2024 19:11:13 GMT', 'x-amz-version-id': 'wX1Ai_x9DM4o_87jIU5A3ox5o7iHZOS6', 'x-amz-server-side-encryption': 'AES256', 'etag': '"09549461d467dc0f5add08e780490a2e"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"09549461d467dc0f5add08e780490a2e"', 'ServerSideEncryption': 'AES256', 'VersionId': 'wX1Ai_x9DM4o_87jIU5A3ox5o7iHZOS6'}
+2024-11-22 12:11:13,561 - app_logger - INFO - Deleted processed request with key: 1732302554797
+2024-11-22 12:11:13,643 - app_logger - INFO - Found smallest key: 1732302555058
+2024-11-22 12:11:13,722 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:11:13,806 - app_logger - INFO - Deleted widget with key widgets/henry-hops/ae5449eb-dd0d-4a93-ac46-3b9b89a49906 from S3. Response: {'ResponseMetadata': {'RequestId': 'S7VJYQ0G4YE025XF', 'HostId': '4YUcE4cah/ChEpChHA7mCz96TIwPcwH8FpmRouSGLG7Gib5yTuegtAcj/wc4612ghp939z78ClGZJrWS7UopZfijC7txJ7A8tXhRB+rnl6w=', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': '4YUcE4cah/ChEpChHA7mCz96TIwPcwH8FpmRouSGLG7Gib5yTuegtAcj/wc4612ghp939z78ClGZJrWS7UopZfijC7txJ7A8tXhRB+rnl6w=', 'x-amz-request-id': 'S7VJYQ0G4YE025XF', 'date': 'Fri, 22 Nov 2024 19:11:13 GMT', 'x-amz-version-id': 'c.XU6oDE.Mz3.TNwIdUkB.zI654XYSdC', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'c.XU6oDE.Mz3.TNwIdUkB.zI654XYSdC'}
+2024-11-22 12:11:13,890 - app_logger - INFO - Deleted processed request with key: 1732302555058
+2024-11-22 12:11:13,971 - app_logger - INFO - Found smallest key: 1732302555322
+2024-11-22 12:11:14,056 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:14,232 - app_logger - INFO - Updated widget in S3 with key widgets/sue-smith/1b2aedb3-5dfe-48c1-8e29-0c6cc2d81fac. Response: {'ResponseMetadata': {'RequestId': 'S7VNSJ8EWY21F63G', 'HostId': 'j9qGz8bRNgv+EjnOvSMgjoHruWXYjQFVLusJQw+TZ6RugPqgFn8uFtw1SnNyOpZJUMDwKidM86cxA4v8RAouK6huhntzitTdsZryDncpvwc=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'j9qGz8bRNgv+EjnOvSMgjoHruWXYjQFVLusJQw+TZ6RugPqgFn8uFtw1SnNyOpZJUMDwKidM86cxA4v8RAouK6huhntzitTdsZryDncpvwc=', 'x-amz-request-id': 'S7VNSJ8EWY21F63G', 'date': 'Fri, 22 Nov 2024 19:11:13 GMT', 'x-amz-version-id': 'wzu.wS.UVnQWC9cb.299rmp8FSsF8nS5', 'x-amz-server-side-encryption': 'AES256', 'etag': '"676091d33dee5d759b31cda47f48e786"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"676091d33dee5d759b31cda47f48e786"', 'ServerSideEncryption': 'AES256', 'VersionId': 'wzu.wS.UVnQWC9cb.299rmp8FSsF8nS5'}
+2024-11-22 12:11:14,315 - app_logger - INFO - Deleted processed request with key: 1732302555322
+2024-11-22 12:11:40,484 - app_logger - INFO - Starting the application...
+2024-11-22 12:11:40,487 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 's3', 'destination': 'usu-cs5250-matt-web'}
+2024-11-22 12:11:40,550 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:11:40,694 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=s3, destination=usu-cs5250-matt-web
+2024-11-22 12:11:40,694 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:11:41,203 - app_logger - INFO - Found smallest key: 1732302555584
+2024-11-22 12:11:41,286 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:41,906 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:41,989 - app_logger - INFO - Deleted processed request with key: 1732302555584
+2024-11-22 12:11:42,071 - app_logger - INFO - Found smallest key: 1732302555849
+2024-11-22 12:11:42,165 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:42,323 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:42,403 - app_logger - INFO - Deleted processed request with key: 1732302555849
+2024-11-22 12:11:42,482 - app_logger - INFO - Found smallest key: 1732302556113
+2024-11-22 12:11:42,566 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:42,723 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/e8a0783e-fc10-4b74-8fd5-5488d806e198. Response: {'ResponseMetadata': {'RequestId': '2YFQ3C0P460WRZCM', 'HostId': 'rlRw2Cr+dlvaWNuFTv6NdzqGg6DcaWhysCuIV61Hbksl68m7tAEX2UmcopxmqO2m76wjBw/Pn/mm1raV593ghQ==', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'rlRw2Cr+dlvaWNuFTv6NdzqGg6DcaWhysCuIV61Hbksl68m7tAEX2UmcopxmqO2m76wjBw/Pn/mm1raV593ghQ==', 'x-amz-request-id': '2YFQ3C0P460WRZCM', 'date': 'Fri, 22 Nov 2024 19:11:42 GMT', 'x-amz-version-id': 'anKBc1_8Cbp4Qmn.mwOyC8Iom5s4oW0b', 'x-amz-server-side-encryption': 'AES256', 'etag': '"297ad0b2138a236be05661adadd59223"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"297ad0b2138a236be05661adadd59223"', 'ServerSideEncryption': 'AES256', 'VersionId': 'anKBc1_8Cbp4Qmn.mwOyC8Iom5s4oW0b'}
+2024-11-22 12:11:42,805 - app_logger - INFO - Deleted processed request with key: 1732302556113
+2024-11-22 12:11:42,952 - app_logger - INFO - Found smallest key: 1732302556378
+2024-11-22 12:11:43,056 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:43,213 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:43,293 - app_logger - INFO - Deleted processed request with key: 1732302556378
+2024-11-22 12:11:43,381 - app_logger - INFO - Found smallest key: 1732302556647
+2024-11-22 12:11:43,505 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:43,664 - app_logger - INFO - Updated widget in S3 with key widgets/sue-smith/c8c6b436-dc2a-44d9-b4a9-6be2aa131839. Response: {'ResponseMetadata': {'RequestId': '8570D4NFQ08CPS30', 'HostId': 'uanBOLYEppAezWbqPl1rX9OWxl4mULYbzpbDle+jSFUTsY2vzrPkVwquRnu+XPaHg/OdXiPWFofgwG7GwrjBUQ==', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'uanBOLYEppAezWbqPl1rX9OWxl4mULYbzpbDle+jSFUTsY2vzrPkVwquRnu+XPaHg/OdXiPWFofgwG7GwrjBUQ==', 'x-amz-request-id': '8570D4NFQ08CPS30', 'date': 'Fri, 22 Nov 2024 19:11:43 GMT', 'x-amz-version-id': 'BgqTpa_Bdc2bud3dR4nqU0kFfjLWiLBK', 'x-amz-server-side-encryption': 'AES256', 'etag': '"5ad25e58aeaa1963c8679ac0e0f0c8bb"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"5ad25e58aeaa1963c8679ac0e0f0c8bb"', 'ServerSideEncryption': 'AES256', 'VersionId': 'BgqTpa_Bdc2bud3dR4nqU0kFfjLWiLBK'}
+2024-11-22 12:11:43,745 - app_logger - INFO - Deleted processed request with key: 1732302556647
+2024-11-22 12:11:43,827 - app_logger - INFO - Found smallest key: 1732302556970
+2024-11-22 12:11:43,913 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:44,069 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:44,151 - app_logger - INFO - Deleted processed request with key: 1732302556970
+2024-11-22 12:11:44,230 - app_logger - INFO - Found smallest key: 1732302557249
+2024-11-22 12:11:44,315 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:44,474 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:44,554 - app_logger - INFO - Deleted processed request with key: 1732302557249
+2024-11-22 12:11:44,635 - app_logger - INFO - Found smallest key: 1732302557513
+2024-11-22 12:11:44,814 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:44,972 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:45,054 - app_logger - INFO - Deleted processed request with key: 1732302557513
+2024-11-22 12:11:45,135 - app_logger - INFO - Found smallest key: 1732302557776
+2024-11-22 12:11:45,220 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:45,376 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:45,459 - app_logger - INFO - Deleted processed request with key: 1732302557776
+2024-11-22 12:11:45,537 - app_logger - INFO - Found smallest key: 1732302558027
+2024-11-22 12:11:45,622 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:45,781 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:45,879 - app_logger - INFO - Deleted processed request with key: 1732302558027
+2024-11-22 12:11:45,960 - app_logger - INFO - Found smallest key: 1732302558294
+2024-11-22 12:11:46,054 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:46,216 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:46,299 - app_logger - INFO - Deleted processed request with key: 1732302558294
+2024-11-22 12:11:46,377 - app_logger - INFO - Found smallest key: 1732302558562
+2024-11-22 12:11:46,453 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:11:46,540 - app_logger - INFO - Deleted widget with key widgets/mary-matthews/45629b27-fb17-4cf4-8081-4dbe99d7d3ba from S3. Response: {'ResponseMetadata': {'RequestId': 'S9VYF9HSYA2EVWCE', 'HostId': '5AgDsPe2xsGaQGzUijVjeKAfae/7AL/ZOR2tmPGY2QDHd25MwxONQkfmWWZLM3bhiA06YIr1piSLHGVhwySxsA==', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': '5AgDsPe2xsGaQGzUijVjeKAfae/7AL/ZOR2tmPGY2QDHd25MwxONQkfmWWZLM3bhiA06YIr1piSLHGVhwySxsA==', 'x-amz-request-id': 'S9VYF9HSYA2EVWCE', 'date': 'Fri, 22 Nov 2024 19:11:46 GMT', 'x-amz-version-id': 'g5f6UAPrwX7doml6QczW5XWAh3U.ZCxF', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'g5f6UAPrwX7doml6QczW5XWAh3U.ZCxF'}
+2024-11-22 12:11:46,621 - app_logger - INFO - Deleted processed request with key: 1732302558562
+2024-11-22 12:11:46,702 - app_logger - INFO - Found smallest key: 1732302558813
+2024-11-22 12:11:46,780 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:11:46,864 - app_logger - INFO - Deleted widget with key widgets/henry-hops/cdfa6849-390e-4a10-a30e-4dfa501de12b from S3. Response: {'ResponseMetadata': {'RequestId': 'S9VTR43S5RNMH5RS', 'HostId': 'snfkwps3vpfBjLOWSui9psQU3Iyqiyrywl4oECzRTRUkJsIsdrAKXM6Kr/0hp4lPBNSoS7RufPLaNI2jTF55eg==', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'snfkwps3vpfBjLOWSui9psQU3Iyqiyrywl4oECzRTRUkJsIsdrAKXM6Kr/0hp4lPBNSoS7RufPLaNI2jTF55eg==', 'x-amz-request-id': 'S9VTR43S5RNMH5RS', 'date': 'Fri, 22 Nov 2024 19:11:46 GMT', 'x-amz-version-id': 'x.R4Cg7gm9GfQ_edObDWInT3JkNGReOb', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'x.R4Cg7gm9GfQ_edObDWInT3JkNGReOb'}
+2024-11-22 12:11:46,943 - app_logger - INFO - Deleted processed request with key: 1732302558813
+2024-11-22 12:11:47,026 - app_logger - INFO - Found smallest key: 1732302559309
+2024-11-22 12:11:47,104 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:11:47,187 - app_logger - INFO - Deleted widget with key widgets/mary-matthews/1474ae4d-a4a3-4ec4-b082-f9b83fadd059 from S3. Response: {'ResponseMetadata': {'RequestId': 'S9VJXYDTT3Y4E7CC', 'HostId': 'E8OEN9sDpnuKHDE1xnOT2tO6AuAQqz6FqGmF4GbfTp41a+UviSBqlFe5tz9m+JlJ00nSlBpj98Vxzi6Sq66qqw==', 'HTTPStatusCode': 204, 'HTTPHeaders': {'x-amz-id-2': 'E8OEN9sDpnuKHDE1xnOT2tO6AuAQqz6FqGmF4GbfTp41a+UviSBqlFe5tz9m+JlJ00nSlBpj98Vxzi6Sq66qqw==', 'x-amz-request-id': 'S9VJXYDTT3Y4E7CC', 'date': 'Fri, 22 Nov 2024 19:11:46 GMT', 'x-amz-version-id': 'I65zkMnVhrq.ieMibtFshGXhhmbose3N', 'x-amz-delete-marker': 'true', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'DeleteMarker': True, 'VersionId': 'I65zkMnVhrq.ieMibtFshGXhhmbose3N'}
+2024-11-22 12:11:47,297 - app_logger - INFO - Deleted processed request with key: 1732302559309
+2024-11-22 12:11:47,377 - app_logger - INFO - Found smallest key: 1732302559581
+2024-11-22 12:11:47,461 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:47,620 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:47,704 - app_logger - INFO - Deleted processed request with key: 1732302559581
+2024-11-22 12:11:47,786 - app_logger - INFO - Found smallest key: 1732302559842
+2024-11-22 12:11:47,868 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:48,027 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:48,107 - app_logger - INFO - Deleted processed request with key: 1732302559842
+2024-11-22 12:11:48,186 - app_logger - INFO - Found smallest key: 1732302560105
+2024-11-22 12:11:48,283 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:48,495 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:48,575 - app_logger - INFO - Deleted processed request with key: 1732302560105
+2024-11-22 12:11:48,651 - app_logger - INFO - Found smallest key: 1732302560381
+2024-11-22 12:11:48,732 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:48,975 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:49,059 - app_logger - INFO - Deleted processed request with key: 1732302560381
+2024-11-22 12:11:49,135 - app_logger - INFO - Found smallest key: 1732302560945
+2024-11-22 12:11:49,218 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:11:49,376 - app_logger - INFO - Updated widget in S3 with key widgets/henry-hops/4cd4246f-8ac0-4304-9bd4-b14d4eb8c392. Response: {'ResponseMetadata': {'RequestId': 'RVH2NVZNY8S0K7KA', 'HostId': '5tykwUMpZ00pluUPgL2+P0jZDIIs4eLYCoxKvNQAsAl0QtXtZyBB+ipoqT6n1CtJhOdZyKFCQ8VpHaqiC5ldog==', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': '5tykwUMpZ00pluUPgL2+P0jZDIIs4eLYCoxKvNQAsAl0QtXtZyBB+ipoqT6n1CtJhOdZyKFCQ8VpHaqiC5ldog==', 'x-amz-request-id': 'RVH2NVZNY8S0K7KA', 'date': 'Fri, 22 Nov 2024 19:11:49 GMT', 'x-amz-version-id': 'v6.ujZFZ3y0OORRN2uSSwFopFl1LRppJ', 'x-amz-server-side-encryption': 'AES256', 'etag': '"5cca39ddc6cf3211f91716eb55e182e3"', 'content-length': '0', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'ETag': '"5cca39ddc6cf3211f91716eb55e182e3"', 'ServerSideEncryption': 'AES256', 'VersionId': 'v6.ujZFZ3y0OORRN2uSSwFopFl1LRppJ'}
+2024-11-22 12:11:49,456 - app_logger - INFO - Deleted processed request with key: 1732302560945
+2024-11-22 12:11:49,534 - app_logger - INFO - Found smallest key: 1732302561209
+2024-11-22 12:11:49,616 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:11:49,772 - app_logger - INFO - Sent request to usu-cs5250-matt-web
+2024-11-22 12:11:49,854 - app_logger - INFO - Deleted processed request with key: 1732302561209
+2024-11-22 12:34:00,179 - app_logger - INFO - Starting the application...
+2024-11-22 12:34:00,182 - app_logger - INFO - Loaded config: {'source': 'usu-cs5250-matt-requests', 'storageType': 'sqs', 'destination': 'cs5250-requests'}
+2024-11-22 12:34:00,241 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 12:34:00,474 - app_logger - INFO - Initialized consumer with source=usu-cs5250-matt-requests, storageType=sqs, destination=cs5250-requests
+2024-11-22 12:34:00,474 - app_logger - INFO - Starting to listen for requests...
+2024-11-22 12:34:01,005 - app_logger - INFO - Found smallest key: 1732303983066
+2024-11-22 12:34:01,333 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:02,011 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:02,101 - app_logger - INFO - Deleted processed request with key: 1732303983066
+2024-11-22 12:34:02,238 - app_logger - INFO - Found smallest key: 1732303984166
+2024-11-22 12:34:02,388 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:02,468 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:02,562 - app_logger - INFO - Deleted processed request with key: 1732303984166
+2024-11-22 12:34:02,680 - app_logger - INFO - Found smallest key: 1732303984771
+2024-11-22 12:34:02,773 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:02,851 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:02,939 - app_logger - INFO - Deleted processed request with key: 1732303984771
+2024-11-22 12:34:03,038 - app_logger - INFO - Found smallest key: 1732303985065
+2024-11-22 12:34:03,135 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:03,226 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:03,316 - app_logger - INFO - Deleted processed request with key: 1732303985065
+2024-11-22 12:34:03,418 - app_logger - INFO - Found smallest key: 1732303985354
+2024-11-22 12:34:03,511 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:03,596 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:03,692 - app_logger - INFO - Deleted processed request with key: 1732303985354
+2024-11-22 12:34:03,942 - app_logger - INFO - Found smallest key: 1732303985642
+2024-11-22 12:34:04,064 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:04,142 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:04,231 - app_logger - INFO - Deleted processed request with key: 1732303985642
+2024-11-22 12:34:04,329 - app_logger - INFO - Found smallest key: 1732303985926
+2024-11-22 12:34:04,420 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:04,498 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:04,587 - app_logger - INFO - Deleted processed request with key: 1732303985926
+2024-11-22 12:34:04,684 - app_logger - INFO - Found smallest key: 1732303986203
+2024-11-22 12:34:05,367 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:05,446 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:05,536 - app_logger - INFO - Deleted processed request with key: 1732303986203
+2024-11-22 12:34:05,633 - app_logger - INFO - Found smallest key: 1732303986481
+2024-11-22 12:34:05,724 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:05,806 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:06,161 - app_logger - INFO - Deleted processed request with key: 1732303986481
+2024-11-22 12:34:06,260 - app_logger - INFO - Found smallest key: 1732303986844
+2024-11-22 12:34:06,387 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:06,464 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:06,552 - app_logger - INFO - Deleted processed request with key: 1732303986844
+2024-11-22 12:34:06,651 - app_logger - INFO - Found smallest key: 1732303987124
+2024-11-22 12:34:06,739 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:06,818 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:06,912 - app_logger - INFO - Deleted processed request with key: 1732303987124
+2024-11-22 12:34:07,157 - app_logger - INFO - Found smallest key: 1732303987406
+2024-11-22 12:34:07,249 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:07,328 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:07,421 - app_logger - INFO - Deleted processed request with key: 1732303987406
+2024-11-22 12:34:07,520 - app_logger - INFO - Found smallest key: 1732303987685
+2024-11-22 12:34:07,631 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:07,711 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:07,799 - app_logger - INFO - Deleted processed request with key: 1732303987685
+2024-11-22 12:34:07,899 - app_logger - INFO - Found smallest key: 1732303987966
+2024-11-22 12:34:07,992 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:08,072 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:08,331 - app_logger - INFO - Deleted processed request with key: 1732303987966
+2024-11-22 12:34:08,427 - app_logger - INFO - Found smallest key: 1732303988248
+2024-11-22 12:34:08,519 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:08,598 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:08,687 - app_logger - INFO - Deleted processed request with key: 1732303988248
+2024-11-22 12:34:08,789 - app_logger - INFO - Found smallest key: 1732303988528
+2024-11-22 12:34:08,881 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:08,961 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:09,053 - app_logger - INFO - Deleted processed request with key: 1732303988528
+2024-11-22 12:34:09,154 - app_logger - INFO - Found smallest key: 1732303988809
+2024-11-22 12:34:09,249 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:09,327 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:09,416 - app_logger - INFO - Deleted processed request with key: 1732303988809
+2024-11-22 12:34:09,514 - app_logger - INFO - Found smallest key: 1732303989090
+2024-11-22 12:34:09,850 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:09,929 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:10,020 - app_logger - INFO - Deleted processed request with key: 1732303989090
+2024-11-22 12:34:10,119 - app_logger - INFO - Found smallest key: 1732303989369
+2024-11-22 12:34:10,213 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:10,293 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:10,541 - app_logger - INFO - Deleted processed request with key: 1732303989369
+2024-11-22 12:34:10,643 - app_logger - INFO - Found smallest key: 1732303989649
+2024-11-22 12:34:10,736 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:10,816 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:10,909 - app_logger - INFO - Deleted processed request with key: 1732303989649
+2024-11-22 12:34:11,005 - app_logger - INFO - Found smallest key: 1732303989930
+2024-11-22 12:34:11,094 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:11,172 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:11,262 - app_logger - INFO - Deleted processed request with key: 1732303989930
+2024-11-22 12:34:11,359 - app_logger - INFO - Found smallest key: 1732303990211
+2024-11-22 12:34:11,465 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:11,545 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:11,637 - app_logger - INFO - Deleted processed request with key: 1732303990211
+2024-11-22 12:34:11,734 - app_logger - INFO - Found smallest key: 1732303990490
+2024-11-22 12:34:11,826 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:11,903 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:11,992 - app_logger - INFO - Deleted processed request with key: 1732303990490
+2024-11-22 12:34:12,094 - app_logger - INFO - Found smallest key: 1732303990768
+2024-11-22 12:34:12,186 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:12,264 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:12,356 - app_logger - INFO - Deleted processed request with key: 1732303990768
+2024-11-22 12:34:12,454 - app_logger - INFO - Found smallest key: 1732303991046
+2024-11-22 12:34:13,119 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:13,260 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:13,351 - app_logger - INFO - Deleted processed request with key: 1732303991046
+2024-11-22 12:34:13,529 - app_logger - INFO - Found smallest key: 1732303991328
+2024-11-22 12:34:13,623 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:13,702 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:13,796 - app_logger - INFO - Deleted processed request with key: 1732303991328
+2024-11-22 12:34:13,892 - app_logger - INFO - Found smallest key: 1732303991607
+2024-11-22 12:34:13,985 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:14,064 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:14,155 - app_logger - INFO - Deleted processed request with key: 1732303991607
+2024-11-22 12:34:14,254 - app_logger - INFO - Found smallest key: 1732303991918
+2024-11-22 12:34:14,346 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:14,424 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:14,758 - app_logger - INFO - Deleted processed request with key: 1732303991918
+2024-11-22 12:34:14,857 - app_logger - INFO - Found smallest key: 1732303992199
+2024-11-22 12:34:14,951 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:15,031 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:15,125 - app_logger - INFO - Deleted processed request with key: 1732303992199
+2024-11-22 12:34:15,222 - app_logger - INFO - Found smallest key: 1732303992478
+2024-11-22 12:34:15,315 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:15,396 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:15,489 - app_logger - INFO - Deleted processed request with key: 1732303992478
+2024-11-22 12:34:15,586 - app_logger - INFO - Found smallest key: 1732303992758
+2024-11-22 12:34:15,678 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:15,757 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:15,854 - app_logger - INFO - Deleted processed request with key: 1732303992758
+2024-11-22 12:34:15,961 - app_logger - INFO - Found smallest key: 1732303993287
+2024-11-22 12:34:16,057 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:16,139 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:16,473 - app_logger - INFO - Deleted processed request with key: 1732303993287
+2024-11-22 12:34:16,573 - app_logger - INFO - Found smallest key: 1732303993569
+2024-11-22 12:34:16,664 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:16,743 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:16,835 - app_logger - INFO - Deleted processed request with key: 1732303993569
+2024-11-22 12:34:16,930 - app_logger - INFO - Found smallest key: 1732303993849
+2024-11-22 12:34:17,496 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:17,576 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:17,666 - app_logger - INFO - Deleted processed request with key: 1732303993849
+2024-11-22 12:34:17,760 - app_logger - INFO - Found smallest key: 1732303994130
+2024-11-22 12:34:17,857 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:17,936 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:18,023 - app_logger - INFO - Deleted processed request with key: 1732303994130
+2024-11-22 12:34:18,118 - app_logger - INFO - Found smallest key: 1732303994411
+2024-11-22 12:34:18,241 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:18,321 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:18,409 - app_logger - INFO - Deleted processed request with key: 1732303994411
+2024-11-22 12:34:18,510 - app_logger - INFO - Found smallest key: 1732303994692
+2024-11-22 12:34:18,602 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:18,682 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:18,768 - app_logger - INFO - Deleted processed request with key: 1732303994692
+2024-11-22 12:34:18,869 - app_logger - INFO - Found smallest key: 1732303994972
+2024-11-22 12:34:18,959 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:19,038 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:19,125 - app_logger - INFO - Deleted processed request with key: 1732303994972
+2024-11-22 12:34:19,218 - app_logger - INFO - Found smallest key: 1732303995252
+2024-11-22 12:34:19,311 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:19,389 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:19,482 - app_logger - INFO - Deleted processed request with key: 1732303995252
+2024-11-22 12:34:19,577 - app_logger - INFO - Found smallest key: 1732303995531
+2024-11-22 12:34:19,668 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:19,748 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:19,838 - app_logger - INFO - Deleted processed request with key: 1732303995531
+2024-11-22 12:34:19,934 - app_logger - INFO - Found smallest key: 1732303995810
+2024-11-22 12:34:20,031 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:20,121 - app_logger - INFO - Deleted processed request with key: 1732303995810
+2024-11-22 12:34:20,218 - app_logger - INFO - Found smallest key: 1732303996090
+2024-11-22 12:34:20,339 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:20,429 - app_logger - INFO - Deleted processed request with key: 1732303996090
+2024-11-22 12:34:20,527 - app_logger - INFO - Found smallest key: 1732303996370
+2024-11-22 12:34:20,620 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:20,700 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:20,790 - app_logger - INFO - Deleted processed request with key: 1732303996370
+2024-11-22 12:34:20,885 - app_logger - INFO - Found smallest key: 1732303996650
+2024-11-22 12:34:20,978 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:21,076 - app_logger - INFO - Deleted processed request with key: 1732303996650
+2024-11-22 12:34:21,173 - app_logger - INFO - Found smallest key: 1732303997024
+2024-11-22 12:34:21,269 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:21,348 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:21,442 - app_logger - INFO - Deleted processed request with key: 1732303997024
+2024-11-22 12:34:21,536 - app_logger - INFO - Found smallest key: 1732303997304
+2024-11-22 12:34:21,632 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:21,710 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:21,800 - app_logger - INFO - Deleted processed request with key: 1732303997304
+2024-11-22 12:34:21,918 - app_logger - INFO - Found smallest key: 1732303997584
+2024-11-22 12:34:22,045 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:22,123 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:22,216 - app_logger - INFO - Deleted processed request with key: 1732303997584
+2024-11-22 12:34:22,308 - app_logger - INFO - Found smallest key: 1732303997865
+2024-11-22 12:34:22,404 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:22,492 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:22,583 - app_logger - INFO - Deleted processed request with key: 1732303997865
+2024-11-22 12:34:22,677 - app_logger - INFO - Found smallest key: 1732303998147
+2024-11-22 12:34:22,772 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:22,851 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:22,941 - app_logger - INFO - Deleted processed request with key: 1732303998147
+2024-11-22 12:34:23,035 - app_logger - INFO - Found smallest key: 1732303998428
+2024-11-22 12:34:23,123 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:34:23,214 - app_logger - INFO - Deleted processed request with key: 1732303998428
+2024-11-22 12:34:23,306 - app_logger - INFO - Found smallest key: 1732303998707
+2024-11-22 12:34:23,398 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:23,478 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:23,566 - app_logger - INFO - Deleted processed request with key: 1732303998707
+2024-11-22 12:34:23,658 - app_logger - INFO - Found smallest key: 1732303998988
+2024-11-22 12:34:23,753 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:23,832 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:23,922 - app_logger - INFO - Deleted processed request with key: 1732303998988
+2024-11-22 12:34:24,018 - app_logger - INFO - Found smallest key: 1732303999268
+2024-11-22 12:34:24,112 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:24,203 - app_logger - INFO - Deleted processed request with key: 1732303999268
+2024-11-22 12:34:24,297 - app_logger - INFO - Found smallest key: 1732303999861
+2024-11-22 12:34:24,390 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:24,481 - app_logger - INFO - Deleted processed request with key: 1732303999861
+2024-11-22 12:34:24,575 - app_logger - INFO - Found smallest key: 1732304000140
+2024-11-22 12:34:24,667 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:24,748 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:24,841 - app_logger - INFO - Deleted processed request with key: 1732304000140
+2024-11-22 12:34:24,934 - app_logger - INFO - Found smallest key: 1732304000422
+2024-11-22 12:34:25,087 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:25,177 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:25,270 - app_logger - INFO - Deleted processed request with key: 1732304000422
+2024-11-22 12:34:25,361 - app_logger - INFO - Found smallest key: 1732304000705
+2024-11-22 12:34:25,477 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:25,557 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:25,648 - app_logger - INFO - Deleted processed request with key: 1732304000705
+2024-11-22 12:34:25,742 - app_logger - INFO - Found smallest key: 1732304000987
+2024-11-22 12:34:25,836 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:25,914 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:26,011 - app_logger - INFO - Deleted processed request with key: 1732304000987
+2024-11-22 12:34:26,102 - app_logger - INFO - Found smallest key: 1732304001268
+2024-11-22 12:34:26,197 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:26,277 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:26,367 - app_logger - INFO - Deleted processed request with key: 1732304001268
+2024-11-22 12:34:26,459 - app_logger - INFO - Found smallest key: 1732304001593
+2024-11-22 12:34:26,554 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:26,635 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:26,728 - app_logger - INFO - Deleted processed request with key: 1732304001593
+2024-11-22 12:34:26,819 - app_logger - INFO - Found smallest key: 1732304001874
+2024-11-22 12:34:26,914 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:26,995 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:27,134 - app_logger - INFO - Deleted processed request with key: 1732304001874
+2024-11-22 12:34:27,226 - app_logger - INFO - Found smallest key: 1732304002158
+2024-11-22 12:34:27,319 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:27,400 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:27,492 - app_logger - INFO - Deleted processed request with key: 1732304002158
+2024-11-22 12:34:27,583 - app_logger - INFO - Found smallest key: 1732304002438
+2024-11-22 12:34:27,672 - app_logger - INFO - Processing request of type: delete
+2024-11-22 12:34:27,760 - app_logger - INFO - Deleted processed request with key: 1732304002438
+2024-11-22 12:34:27,860 - app_logger - INFO - Found smallest key: 1732304002733
+2024-11-22 12:34:27,953 - app_logger - INFO - Processing request of type: update
+2024-11-22 12:34:28,041 - app_logger - INFO - Deleted processed request with key: 1732304002733
+2024-11-22 12:34:28,131 - app_logger - INFO - Found smallest key: 1732304003028
+2024-11-22 12:34:28,224 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:28,303 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:28,396 - app_logger - INFO - Deleted processed request with key: 1732304003028
+2024-11-22 12:34:28,491 - app_logger - INFO - Found smallest key: 1732304003306
+2024-11-22 12:34:28,582 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:28,661 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:28,752 - app_logger - INFO - Deleted processed request with key: 1732304003306
+2024-11-22 12:34:28,844 - app_logger - INFO - Found smallest key: 1732304003586
+2024-11-22 12:34:28,937 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:29,016 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:29,515 - app_logger - INFO - Deleted processed request with key: 1732304003586
+2024-11-22 12:34:29,605 - app_logger - INFO - Found smallest key: 1732304003865
+2024-11-22 12:34:29,695 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:29,774 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:29,863 - app_logger - INFO - Deleted processed request with key: 1732304003865
+2024-11-22 12:34:29,952 - app_logger - INFO - Found smallest key: 1732304004143
+2024-11-22 12:34:30,046 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:30,124 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:30,212 - app_logger - INFO - Deleted processed request with key: 1732304004143
+2024-11-22 12:34:30,304 - app_logger - INFO - Found smallest key: 1732304004518
+2024-11-22 12:34:30,400 - app_logger - INFO - Processing request of type: create
+2024-11-22 12:34:30,478 - app_logger - INFO - Sent request to cs5250-requests
+2024-11-22 12:34:30,565 - app_logger - INFO - Deleted processed request with key: 1732304004518
